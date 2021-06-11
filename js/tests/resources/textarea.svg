@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2100" height="2970" viewBox="0 0 2100 2970">
+  <defs>
+    <clipPath id="clip-textarea">
+      <rect width="2100" height="2970"/>
+    </clipPath>
+  </defs>
+  <g id="textarea" clip-path="url(#clip-textarea)">
+    <rect width="2100" height="2970" fill="#fff"/>
+    <g id="長方形_2" data-name="長方形 2" transform="translate(135 120)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="1830" height="130" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1829" height="129" fill="none"/>
+    </g>
+    <text id="_text_" data-name="%text%" transform="translate(138 146)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%text%</tspan></text>
+  </g>
+</svg>

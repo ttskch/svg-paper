@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  user-select: none;
+}
+
+@page {
+  size: A4 portrait;
+  margin: 0; // hide header and footer
+}
+
+body {
+  width: 210mm;
+  color-adjust: exact;
+  > svg {
+    width: 210mm;
+    height: 295.5mm; // a little smaller than 297mm so that an empty last page isn't shown
+    page-break-after: always;
+  }
+}
+
+// for preview screen
+@media screen {
+  body {
+    background: #ccc;
+    margin: 0 auto;
+    > svg {
+      background: #fff;
+      box-shadow: 0 .5mm 2mm rgba(0,0,0,.3);
+      margin-top: 5mm;
+    }
+  }
+}
