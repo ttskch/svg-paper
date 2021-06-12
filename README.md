@@ -15,7 +15,7 @@ You can print beautiful and maintainable paper documents by following steps:
 
 1. Design the document with [Adobe XD](https://www.adobe.com/products/xd.html), [Figma](https://www.figma.com/), or something
 1. Export it as SVG
-1. Embed SVG into your html and fix it with **svg-paper**
+1. Embed SVG into your HTML and fix it with **svg-paper**
 1. That's it 💥
 
 ## Installation
@@ -33,7 +33,32 @@ You can print beautiful and maintainable paper documents by following steps:
 $ npm install svg-paper
 ```
 
-## Basic usage
+## Preparing SVG template
+
+### Using Adobe XD is strongly recommended
+
+If you use Adobe XD, you are lucky because if you put some placeholders in the artboard like `%placeholder1%` or `%serialPlaceholder[0]%`, Adobe XD assigns id to `<text>` elements like `_placeholder1_` or `_serialPlaceholder_0_` automatically.
+
+From this, you can embed the exported SVG into your HTML without any modification even if you use characters that cannot be used for id, and as a result, you can replace only placeholder as a value without replacing id 🙌
+
+### Figma is not very good...
+
+Figma doesn't do these things like Adobe XD. So if you use Figma, you have to replace id for example like as following. 
+
+```bash
+$ sed -E 's/id="%([^%]+)%"/id="_\1_"/' /path/to/exported-from-figma.svg \
+| sed -E 's/id="_(.+)\[(.+)\]_"/id="_\1_\2_"/' > /path/to/exported-from-figma.tweaked.svg
+```
+
+This command converts ids to safe format.
+
+And one more thing. With Figma, not using multi-byte characters in your placeholder labels is strongly recommended.
+
+If you use multi-byte characters, Figma converts them into [XML character reference](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references#Character_reference_overview) when exporting. This is very inconvenient to replace or specify as id.
+
+## Basic usage of svg-paper
+
+Anyway, once SVG template is ready, rest is so easy 👍 You can replace or adjust contents easily with svg-paper like following.
 
 ```js
 import SvgPaper from 'svg-paper'
@@ -84,7 +109,7 @@ To beautify preview screen, you only have to add 3 lines to your html 👍
 </head>
 
 <body class="A4"> <!-- here -->
-...
+  <svg>...</svg>
 </body>
 ```
 
@@ -107,7 +132,7 @@ You also can see the live demo on your local by following steps:
 1. `git clone` this repo
 1. `npm install`
 1. `npm run test js/tests/functional.test.js`
-1. open `js/tests/output/real-world-paper-xd.html` in your browser
+1. open `js/tests/output/real-world-paper-xd.html` or `js/tests/output/real-world-paper-figma.html` in your browser
 
 ### Tips: Hiding content before placeholders are replaced
 
