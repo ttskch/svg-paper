@@ -1,0 +1,1050 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2100" height="2970" viewBox="0 0 2100 2970">
+  <defs>
+    <clipPath id="clip-real-world-paper">
+      <rect width="2100" height="2970"></rect>
+    </clipPath>
+  </defs>
+  <g id="real-world-paper" clip-path="url(#clip-real-world-paper)">
+    <rect width="2100" height="2970" fill="#fff"></rect>
+    <g id="長方形_2" data-name="長方形 2" transform="translate(135 2557)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="1830" height="298" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="1829" height="297" fill="none"></rect>
+    </g>
+    <g id="長方形_23" data-name="長方形 23" transform="translate(135 2212)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="1347" height="298" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="1346" height="297" fill="none"></rect>
+    </g>
+    <rect id="長方形_145" data-name="長方形 145" width="1343" height="235" transform="translate(137 2274)" fill="#fff"></rect>
+    <g id="長方形_24" data-name="長方形 24" transform="translate(1732 2169)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="234" height="69" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="233" height="68" fill="none"></rect>
+    </g>
+    <g id="長方形_25" data-name="長方形 25" transform="translate(1529 2169)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="204" height="69" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="203" height="68" fill="none"></rect>
+    </g>
+    <g id="長方形_24-2" data-name="長方形 24" transform="translate(1732 2237)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="234" height="69" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="233" height="68" fill="none"></rect>
+    </g>
+    <g id="長方形_25-2" data-name="長方形 25" transform="translate(1529 2237)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="204" height="69" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="203" height="68" fill="none"></rect>
+    </g>
+    <g id="長方形_24-3" data-name="長方形 24" transform="translate(1732 2305)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="234" height="69" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="233" height="68" fill="none"></rect>
+    </g>
+    <g id="長方形_25-3" data-name="長方形 25" transform="translate(1529 2305)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="204" height="69" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="203" height="68" fill="none"></rect>
+    </g>
+    <g id="長方形_24-4" data-name="長方形 24" transform="translate(1732 2373)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="234" height="69" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="233" height="68" fill="none"></rect>
+    </g>
+    <g id="長方形_25-4" data-name="長方形 25" transform="translate(1529 2373)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="204" height="69" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="203" height="68" fill="none"></rect>
+    </g>
+    <g id="長方形_24-5" data-name="長方形 24" transform="translate(1732 2441)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="234" height="69" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="233" height="68" fill="none"></rect>
+    </g>
+    <g id="長方形_25-5" data-name="長方形 25" transform="translate(1529 2441)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="204" height="69" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="203" height="68" fill="none"></rect>
+    </g>
+    <g id="長方形_1" data-name="長方形 1" transform="translate(789 110)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="523" height="113" rx="21" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="522" height="112" rx="20.5" fill="none"></rect>
+    </g>
+    <text id="ESTIMATE" transform="translate(858 194)" font-size="70" font-family="monospace" letter-spacing="0.1em"><tspan x="0" y="0">ESTIMATE</tspan></text>
+    <line id="線_1" data-name="線 1" x2="1245.706" transform="translate(135 389.783)" fill="none" stroke="#000" stroke-width="1"></line>
+    <text id="_customerName_" data-name="Mr. John Smith" transform="translate(750 364.738)" font-size="43" font-family="monospace" style="display: block;" text-anchor="middle"><tspan x="0" y="0">Mr. John Smith</tspan></text>
+    <line id="線_2" data-name="線 2" x2="1245.706" transform="translate(135 459.918)" fill="none" stroke="#000" stroke-width="1"></line>
+    <text id="Case_name" data-name="Case name" transform="translate(184 432.084)" font-size="30" font-family="monospace"><tspan x="0" y="0">Case name</tspan></text>
+    <line id="線_4" data-name="線 4" x2="1245.706" transform="translate(135 530.053)" fill="none" stroke="#000" stroke-width="1"></line>
+    <line id="線_5" data-name="線 5" x2="1245.706" transform="translate(135.586 600.188)" fill="none" stroke="#000" stroke-width="1"></line>
+    <line id="線_6" data-name="線 6" x2="1245.706" transform="translate(135.586 670.323)" fill="none" stroke="#000" stroke-width="1"></line>
+    <line id="線_7" data-name="線 7" x2="1245.706" transform="translate(135 760.556)" fill="none" stroke="#000" stroke-width="1"></line>
+    <text id="Deliver_to" data-name="Deliver to" transform="translate(184 504.959)" font-size="30" font-family="monospace"><tspan x="0" y="0">Deliver to</tspan></text>
+    <text id="Expired_at" data-name="Expired at" transform="translate(184 647.229)" font-size="30" font-family="monospace"><tspan x="0" y="0">Expired at</tspan></text>
+    <text id="Total_amount" data-name="Total amount" transform="translate(184 733.915)" font-size="30" font-family="monospace"><tspan x="0" y="0">Total amount</tspan></text>
+    <text id="Remark" transform="translate(154 2256)" font-size="30" font-family="monospace"><tspan x="0" y="0">Remark</tspan></text>
+    <text id="_caseName_" data-name="Case 1234" transform="translate(408.361 432.875)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">Case 1234</tspan></text>
+    <text id="_date_" data-name="2021-06-01" transform="translate(1597.75 413.31)" font-size="31" font-family="monospace" style="display: block;"><tspan x="0" y="0">2021-06-01</tspan></text>
+    <text id="_number_" data-name="EST-20210601-001" transform="translate(1597.75 467.271)" font-size="31" font-family="monospace" style="display: block;"><tspan x="0" y="0">EST-20210601-001</tspan></text>
+    <text id="_deliverTo_" data-name="California headquotes" transform="translate(408.361 504.959)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">California headquotes</tspan></text>
+    <text id="_deliveredBy_" data-name="2021-12-31" transform="translate(408.361 576.062)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">2021-12-31</tspan></text>
+    <text id="_expiredAt_" data-name="2021-06-30" transform="translate(409.528 647.28)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">2021-06-30</tspan></text>
+    <text id="_totalAmount_" data-name="$ 60,665" transform="translate(408.361 734.19)" font-size="43" font-family="monospace"><tspan x="0" y="0">$ 60,665</tspan></text>
+    <line id="線_9" data-name="線 9" x2="514" transform="translate(1451.25 428.106)" fill="none" stroke="#000" stroke-width="1"></line>
+    <line id="線_10" data-name="線 10" x2="514" transform="translate(1451.25 482.067)" fill="none" stroke="#000" stroke-width="1"></line>
+    <text id="No." transform="translate(1504 464.134)" font-size="23" font-family="monospace"><tspan x="0" y="0">No.</tspan></text>
+    <g id="長方形_9" data-name="長方形 9" transform="translate(878 846)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="218" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="217" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_10" data-name="長方形 10" transform="translate(135 846)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="55" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="54" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_17" data-name="長方形 17" transform="translate(189 846)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="690" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="689" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_18" data-name="長方形 18" transform="translate(1095 846)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="285" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="284" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_19" data-name="長方形 19" transform="translate(1373 846)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="157" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="156" height="49" fill="none"></rect>
+    </g>
+    <text id="Item_name" data-name="Item name" transform="translate(460 882)" font-size="30" font-family="monospace"><tspan x="0" y="0">Item name</tspan></text>
+    <text id="Vendor_name" data-name="Vendor name" transform="translate(893 882)" font-size="30" font-family="monospace"><tspan x="0" y="0">Vendor name</tspan></text>
+    <text id="Model_code" data-name="Model code" transform="translate(1154 882)" font-size="30" font-family="monospace"><tspan x="0" y="0">Model code</tspan></text>
+    <text id="Quantity" transform="translate(1392 881)" font-size="30" font-family="monospace"><tspan x="0" y="0">Quantity</tspan></text>
+    <g id="長方形_21" data-name="長方形 21" transform="translate(1529 846)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="204" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="203" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_22" data-name="長方形 22" transform="translate(1732 846)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="234" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="233" height="49" fill="none"></rect>
+    </g>
+    <text id="Unit_price" data-name="Unit price" transform="translate(1560 881)" font-size="30" font-family="monospace"><tspan x="0" y="0">Unit price</tspan></text>
+    <text id="Total" transform="translate(1814 882)" font-size="30" font-family="monospace"><tspan x="0" y="0">Total</tspan></text>
+    <g id="長方形_10-2" data-name="長方形 10" transform="translate(135 895)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="55" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="54" height="49" fill="none"></rect>
+    </g>
+    <text id="_1" data-name="1" transform="translate(153 931)" font-size="30" font-family="monospace"><tspan x="0" y="0">1</tspan></text>
+    <g id="長方形_9-2" data-name="長方形 9" transform="translate(878 895)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="218" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="217" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_17-2" data-name="長方形 17" transform="translate(189 895)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="690" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="689" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_18-2" data-name="長方形 18" transform="translate(1095 895)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="285" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="284" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_19-2" data-name="長方形 19" transform="translate(1373 895)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="157" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="156" height="49" fill="none"></rect>
+    </g>
+    <text id="_itemName_0_" data-name="Sample item" transform="translate(205 931)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">Sample item</tspan></text>
+    <text id="_vendorName_0_" data-name="Sample vendor" transform="translate(889 931)" font-size="30" font-family="monospace" style="display: block;" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="0" y="0" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+    <text id="_modelCode_0_" data-name="SAMPLE-ITEM-0" transform="translate(1105 931)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">SAMPLE-ITEM-0</tspan></text>
+    <g id="長方形_21-2" data-name="長方形 21" transform="translate(1529 895)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="204" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="203" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_22-2" data-name="長方形 22" transform="translate(1732 895)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="234" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="233" height="49" fill="none"></rect>
+    </g>
+    <text id="_unitPrice_0_" data-name="0" transform="translate(1725 930)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">0</tspan></text>
+    <text id="_total_0_" data-name="0" transform="translate(1958 930)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">0</tspan></text>
+    <text id="_quantity_0_" data-name="0" transform="translate(1452 931)" font-size="30" font-family="monospace" style="display: block;" text-anchor="middle"><tspan x="0" y="0">0</tspan></text>
+    <g id="長方形_10-3" data-name="長方形 10" transform="translate(135 944)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="55" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="54" height="49" fill="none"></rect>
+    </g>
+    <text id="_2" data-name="2" transform="translate(153 980)" font-size="30" font-family="monospace"><tspan x="0" y="0">2</tspan></text>
+    <g id="長方形_9-3" data-name="長方形 9" transform="translate(878 944)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="218" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="217" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_17-3" data-name="長方形 17" transform="translate(189 944)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="690" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="689" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_18-3" data-name="長方形 18" transform="translate(1095 944)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="285" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="284" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_19-3" data-name="長方形 19" transform="translate(1373 944)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="157" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="156" height="49" fill="none"></rect>
+    </g>
+    <text id="_itemName_1_" data-name="Sample item" transform="translate(205 980)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">Sample item</tspan></text>
+    <text id="_vendorName_1_" data-name="Sample vendor" transform="translate(889 980)" font-size="30" font-family="monospace" style="display: block;" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="0" y="0" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+    <text id="_modelCode_1_" data-name="SAMPLE-ITEM-1" transform="translate(1105 980)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">SAMPLE-ITEM-1</tspan></text>
+    <g id="長方形_21-3" data-name="長方形 21" transform="translate(1529 944)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="204" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="203" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_22-3" data-name="長方形 22" transform="translate(1732 944)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="234" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="233" height="49" fill="none"></rect>
+    </g>
+    <text id="_unitPrice_1_" data-name="10" transform="translate(1725 979)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">10</tspan></text>
+    <text id="_total_1_" data-name="10" transform="translate(1958 979)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">10</tspan></text>
+    <text id="_quantity_1_" data-name="1" transform="translate(1452 980)" font-size="30" font-family="monospace" style="display: block;" text-anchor="middle"><tspan x="0" y="0">1</tspan></text>
+    <g id="長方形_10-4" data-name="長方形 10" transform="translate(135 993)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="55" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="54" height="49" fill="none"></rect>
+    </g>
+    <text id="_3" data-name="3" transform="translate(153 1029)" font-size="30" font-family="monospace"><tspan x="0" y="0">3</tspan></text>
+    <g id="長方形_9-4" data-name="長方形 9" transform="translate(878 993)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="218" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="217" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_17-4" data-name="長方形 17" transform="translate(189 993)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="690" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="689" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_18-4" data-name="長方形 18" transform="translate(1095 993)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="285" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="284" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_19-4" data-name="長方形 19" transform="translate(1373 993)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="157" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="156" height="49" fill="none"></rect>
+    </g>
+    <text id="_itemName_2_" data-name="Sample item" transform="translate(205 1029)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">Sample item</tspan></text>
+    <text id="_vendorName_2_" data-name="Sample vendor" transform="translate(889 1029)" font-size="30" font-family="monospace" style="display: block;" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="0" y="0" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+    <text id="_modelCode_2_" data-name="SAMPLE-ITEM-2" transform="translate(1105 1029)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">SAMPLE-ITEM-2</tspan></text>
+    <g id="長方形_21-4" data-name="長方形 21" transform="translate(1529 993)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="204" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="203" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_22-4" data-name="長方形 22" transform="translate(1732 993)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="234" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="233" height="49" fill="none"></rect>
+    </g>
+    <text id="_unitPrice_2_" data-name="20" transform="translate(1725 1028)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">20</tspan></text>
+    <text id="_total_2_" data-name="40" transform="translate(1958 1028)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">40</tspan></text>
+    <text id="_quantity_2_" data-name="2" transform="translate(1452 1029)" font-size="30" font-family="monospace" style="display: block;" text-anchor="middle"><tspan x="0" y="0">2</tspan></text>
+    <g id="長方形_10-5" data-name="長方形 10" transform="translate(135 1042)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="55" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="54" height="49" fill="none"></rect>
+    </g>
+    <text id="_4" data-name="4" transform="translate(153 1078)" font-size="30" font-family="monospace"><tspan x="0" y="0">4</tspan></text>
+    <g id="長方形_9-5" data-name="長方形 9" transform="translate(878 1042)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="218" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="217" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_17-5" data-name="長方形 17" transform="translate(189 1042)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="690" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="689" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_18-5" data-name="長方形 18" transform="translate(1095 1042)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="285" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="284" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_19-5" data-name="長方形 19" transform="translate(1373 1042)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="157" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="156" height="49" fill="none"></rect>
+    </g>
+    <text id="_itemName_3_" data-name="Sample item" transform="translate(205 1078)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">Sample item</tspan></text>
+    <text id="_vendorName_3_" data-name="Sample vendor" transform="translate(889 1078)" font-size="30" font-family="monospace" style="display: block;" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="0" y="0" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+    <text id="_modelCode_3_" data-name="SAMPLE-ITEM-3" transform="translate(1105 1078)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">SAMPLE-ITEM-3</tspan></text>
+    <g id="長方形_21-5" data-name="長方形 21" transform="translate(1529 1042)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="204" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="203" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_22-5" data-name="長方形 22" transform="translate(1732 1042)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="234" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="233" height="49" fill="none"></rect>
+    </g>
+    <text id="_unitPrice_3_" data-name="30" transform="translate(1725 1077)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">30</tspan></text>
+    <text id="_total_3_" data-name="90" transform="translate(1958 1077)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">90</tspan></text>
+    <text id="_quantity_3_" data-name="3" transform="translate(1452 1078)" font-size="30" font-family="monospace" style="display: block;" text-anchor="middle"><tspan x="0" y="0">3</tspan></text>
+    <g id="長方形_10-6" data-name="長方形 10" transform="translate(135 1091)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="55" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="54" height="49" fill="none"></rect>
+    </g>
+    <text id="_5" data-name="5" transform="translate(153 1127)" font-size="30" font-family="monospace"><tspan x="0" y="0">5</tspan></text>
+    <g id="長方形_9-6" data-name="長方形 9" transform="translate(878 1091)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="218" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="217" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_17-6" data-name="長方形 17" transform="translate(189 1091)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="690" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="689" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_18-6" data-name="長方形 18" transform="translate(1095 1091)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="285" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="284" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_19-6" data-name="長方形 19" transform="translate(1373 1091)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="157" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="156" height="49" fill="none"></rect>
+    </g>
+    <text id="_itemName_4_" data-name="Sample item" transform="translate(205 1127)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">Sample item</tspan></text>
+    <text id="_vendorName_4_" data-name="Sample vendor" transform="translate(889 1127)" font-size="30" font-family="monospace" style="display: block;" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="0" y="0" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+    <text id="_modelCode_4_" data-name="SAMPLE-ITEM-4" transform="translate(1105 1127)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">SAMPLE-ITEM-4</tspan></text>
+    <g id="長方形_21-6" data-name="長方形 21" transform="translate(1529 1091)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="204" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="203" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_22-6" data-name="長方形 22" transform="translate(1732 1091)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="234" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="233" height="49" fill="none"></rect>
+    </g>
+    <text id="_unitPrice_4_" data-name="40" transform="translate(1725 1126)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">40</tspan></text>
+    <text id="_total_4_" data-name="160" transform="translate(1958 1126)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">160</tspan></text>
+    <text id="_quantity_4_" data-name="4" transform="translate(1452 1127)" font-size="30" font-family="monospace" style="display: block;" text-anchor="middle"><tspan x="0" y="0">4</tspan></text>
+    <g id="長方形_10-7" data-name="長方形 10" transform="translate(135 1140)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="55" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="54" height="49" fill="none"></rect>
+    </g>
+    <text id="_6" data-name="6" transform="translate(153 1176)" font-size="30" font-family="monospace"><tspan x="0" y="0">6</tspan></text>
+    <g id="長方形_9-7" data-name="長方形 9" transform="translate(878 1140)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="218" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="217" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_17-7" data-name="長方形 17" transform="translate(189 1140)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="690" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="689" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_18-7" data-name="長方形 18" transform="translate(1095 1140)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="285" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="284" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_19-7" data-name="長方形 19" transform="translate(1373 1140)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="157" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="156" height="49" fill="none"></rect>
+    </g>
+    <text id="_itemName_5_" data-name="Sample item" transform="translate(205 1176)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">Sample item</tspan></text>
+    <text id="_vendorName_5_" data-name="Sample vendor" transform="translate(889 1176)" font-size="30" font-family="monospace" style="display: block;" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="0" y="0" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+    <text id="_modelCode_5_" data-name="SAMPLE-ITEM-5" transform="translate(1105 1176)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">SAMPLE-ITEM-5</tspan></text>
+    <g id="長方形_21-7" data-name="長方形 21" transform="translate(1529 1140)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="204" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="203" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_22-7" data-name="長方形 22" transform="translate(1732 1140)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="234" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="233" height="49" fill="none"></rect>
+    </g>
+    <text id="_unitPrice_5_" data-name="50" transform="translate(1725 1175)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">50</tspan></text>
+    <text id="_total_5_" data-name="250" transform="translate(1958 1175)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">250</tspan></text>
+    <text id="_quantity_5_" data-name="5" transform="translate(1452 1176)" font-size="30" font-family="monospace" style="display: block;" text-anchor="middle"><tspan x="0" y="0">5</tspan></text>
+    <g id="長方形_10-8" data-name="長方形 10" transform="translate(135 1189)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="55" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="54" height="49" fill="none"></rect>
+    </g>
+    <text id="_7" data-name="7" transform="translate(153 1225)" font-size="30" font-family="monospace"><tspan x="0" y="0">7</tspan></text>
+    <g id="長方形_9-8" data-name="長方形 9" transform="translate(878 1189)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="218" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="217" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_17-8" data-name="長方形 17" transform="translate(189 1189)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="690" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="689" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_18-8" data-name="長方形 18" transform="translate(1095 1189)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="285" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="284" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_19-8" data-name="長方形 19" transform="translate(1373 1189)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="157" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="156" height="49" fill="none"></rect>
+    </g>
+    <text id="_itemName_6_" data-name="Sample item" transform="translate(205 1225)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">Sample item</tspan></text>
+    <text id="_vendorName_6_" data-name="Sample vendor" transform="translate(889 1225)" font-size="30" font-family="monospace" style="display: block;" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="0" y="0" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+    <text id="_modelCode_6_" data-name="SAMPLE-ITEM-6" transform="translate(1105 1225)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">SAMPLE-ITEM-6</tspan></text>
+    <g id="長方形_21-8" data-name="長方形 21" transform="translate(1529 1189)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="204" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="203" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_22-8" data-name="長方形 22" transform="translate(1732 1189)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="234" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="233" height="49" fill="none"></rect>
+    </g>
+    <text id="_unitPrice_6_" data-name="60" transform="translate(1725 1224)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">60</tspan></text>
+    <text id="_total_6_" data-name="360" transform="translate(1958 1224)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">360</tspan></text>
+    <text id="_quantity_6_" data-name="6" transform="translate(1452 1225)" font-size="30" font-family="monospace" style="display: block;" text-anchor="middle"><tspan x="0" y="0">6</tspan></text>
+    <g id="長方形_10-9" data-name="長方形 10" transform="translate(135 1238)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="55" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="54" height="49" fill="none"></rect>
+    </g>
+    <text id="_8" data-name="8" transform="translate(153 1274)" font-size="30" font-family="monospace"><tspan x="0" y="0">8</tspan></text>
+    <g id="長方形_9-9" data-name="長方形 9" transform="translate(878 1238)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="218" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="217" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_17-9" data-name="長方形 17" transform="translate(189 1238)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="690" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="689" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_18-9" data-name="長方形 18" transform="translate(1095 1238)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="285" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="284" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_19-9" data-name="長方形 19" transform="translate(1373 1238)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="157" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="156" height="49" fill="none"></rect>
+    </g>
+    <text id="_itemName_7_" data-name="Sample item" transform="translate(205 1274)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">Sample item</tspan></text>
+    <text id="_vendorName_7_" data-name="Sample vendor" transform="translate(889 1274)" font-size="30" font-family="monospace" style="display: block;" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="0" y="0" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+    <text id="_modelCode_7_" data-name="SAMPLE-ITEM-7" transform="translate(1105 1274)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">SAMPLE-ITEM-7</tspan></text>
+    <g id="長方形_21-9" data-name="長方形 21" transform="translate(1529 1238)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="204" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="203" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_22-9" data-name="長方形 22" transform="translate(1732 1238)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="234" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="233" height="49" fill="none"></rect>
+    </g>
+    <text id="_unitPrice_7_" data-name="70" transform="translate(1725 1273)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">70</tspan></text>
+    <text id="_total_7_" data-name="490" transform="translate(1958 1273)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">490</tspan></text>
+    <text id="_quantity_7_" data-name="7" transform="translate(1452 1274)" font-size="30" font-family="monospace" style="display: block;" text-anchor="middle"><tspan x="0" y="0">7</tspan></text>
+    <g id="長方形_10-10" data-name="長方形 10" transform="translate(135 1287)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="55" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="54" height="49" fill="none"></rect>
+    </g>
+    <text id="_9" data-name="9" transform="translate(153 1323)" font-size="30" font-family="monospace"><tspan x="0" y="0">9</tspan></text>
+    <g id="長方形_9-10" data-name="長方形 9" transform="translate(878 1287)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="218" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="217" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_17-10" data-name="長方形 17" transform="translate(189 1287)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="690" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="689" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_18-10" data-name="長方形 18" transform="translate(1095 1287)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="285" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="284" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_19-10" data-name="長方形 19" transform="translate(1373 1287)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="157" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="156" height="49" fill="none"></rect>
+    </g>
+    <text id="_itemName_8_" data-name="Sample item" transform="translate(205 1323)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">Sample item</tspan></text>
+    <text id="_vendorName_8_" data-name="Sample vendor" transform="translate(889 1323)" font-size="30" font-family="monospace" style="display: block;" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="0" y="0" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+    <text id="_modelCode_8_" data-name="SAMPLE-ITEM-8" transform="translate(1105 1323)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">SAMPLE-ITEM-8</tspan></text>
+    <g id="長方形_21-10" data-name="長方形 21" transform="translate(1529 1287)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="204" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="203" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_22-10" data-name="長方形 22" transform="translate(1732 1287)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="234" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="233" height="49" fill="none"></rect>
+    </g>
+    <text id="_unitPrice_8_" data-name="80" transform="translate(1725 1322)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">80</tspan></text>
+    <text id="_total_8_" data-name="640" transform="translate(1958 1322)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">640</tspan></text>
+    <text id="_quantity_8_" data-name="8" transform="translate(1452 1323)" font-size="30" font-family="monospace" style="display: block;" text-anchor="middle"><tspan x="0" y="0">8</tspan></text>
+    <g id="長方形_10-11" data-name="長方形 10" transform="translate(135 1336)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="55" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="54" height="49" fill="none"></rect>
+    </g>
+    <text id="_10" data-name="10" transform="translate(144 1372)" font-size="30" font-family="monospace"><tspan x="0" y="0">10</tspan></text>
+    <g id="長方形_9-11" data-name="長方形 9" transform="translate(878 1336)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="218" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="217" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_17-11" data-name="長方形 17" transform="translate(189 1336)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="690" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="689" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_18-11" data-name="長方形 18" transform="translate(1095 1336)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="285" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="284" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_19-11" data-name="長方形 19" transform="translate(1373 1336)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="157" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="156" height="49" fill="none"></rect>
+    </g>
+    <text id="_itemName_9_" data-name="Sample item" transform="translate(205 1372)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">Sample item</tspan></text>
+    <text id="_vendorName_9_" data-name="Sample vendor" transform="translate(889 1372)" font-size="30" font-family="monospace" style="display: block;" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="0" y="0" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+    <text id="_modelCode_9_" data-name="SAMPLE-ITEM-9" transform="translate(1105 1372)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">SAMPLE-ITEM-9</tspan></text>
+    <g id="長方形_21-11" data-name="長方形 21" transform="translate(1529 1336)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="204" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="203" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_22-11" data-name="長方形 22" transform="translate(1732 1336)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="234" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="233" height="49" fill="none"></rect>
+    </g>
+    <text id="_unitPrice_9_" data-name="90" transform="translate(1725 1371)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">90</tspan></text>
+    <text id="_total_9_" data-name="810" transform="translate(1958 1371)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">810</tspan></text>
+    <text id="_quantity_9_" data-name="9" transform="translate(1452 1372)" font-size="30" font-family="monospace" style="display: block;" text-anchor="middle"><tspan x="0" y="0">9</tspan></text>
+    <g id="長方形_10-12" data-name="長方形 10" transform="translate(135 1385)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="55" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="54" height="49" fill="none"></rect>
+    </g>
+    <text id="_11" data-name="11" transform="translate(144 1421)" font-size="30" font-family="monospace"><tspan x="0" y="0">11</tspan></text>
+    <g id="長方形_9-12" data-name="長方形 9" transform="translate(878 1385)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="218" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="217" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_17-12" data-name="長方形 17" transform="translate(189 1385)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="690" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="689" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_18-12" data-name="長方形 18" transform="translate(1095 1385)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="285" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="284" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_19-12" data-name="長方形 19" transform="translate(1373 1385)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="157" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="156" height="49" fill="none"></rect>
+    </g>
+    <text id="_itemName_10_" data-name="Sample item" transform="translate(205 1421)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">Sample item</tspan></text>
+    <text id="_vendorName_10_" data-name="Sample vendor" transform="translate(889 1421)" font-size="30" font-family="monospace" style="display: block;" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="0" y="0" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+    <text id="_modelCode_10_" data-name="SAMPLE-ITEM-10" transform="translate(1105 1421)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">SAMPLE-ITEM-10</tspan></text>
+    <g id="長方形_21-12" data-name="長方形 21" transform="translate(1529 1385)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="204" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="203" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_22-12" data-name="長方形 22" transform="translate(1732 1385)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="234" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="233" height="49" fill="none"></rect>
+    </g>
+    <text id="_unitPrice_10_" data-name="100" transform="translate(1725 1420)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">100</tspan></text>
+    <text id="_total_10_" data-name="1,000" transform="translate(1958 1420)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">1,000</tspan></text>
+    <text id="_quantity_10_" data-name="10" transform="translate(1452 1421)" font-size="30" font-family="monospace" style="display: block;" text-anchor="middle"><tspan x="0" y="0">10</tspan></text>
+    <g id="長方形_10-13" data-name="長方形 10" transform="translate(135 1434)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="55" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="54" height="49" fill="none"></rect>
+    </g>
+    <text id="_12" data-name="12" transform="translate(144 1470)" font-size="30" font-family="monospace"><tspan x="0" y="0">12</tspan></text>
+    <g id="長方形_9-13" data-name="長方形 9" transform="translate(878 1434)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="218" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="217" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_17-13" data-name="長方形 17" transform="translate(189 1434)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="690" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="689" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_18-13" data-name="長方形 18" transform="translate(1095 1434)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="285" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="284" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_19-13" data-name="長方形 19" transform="translate(1373 1434)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="157" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="156" height="49" fill="none"></rect>
+    </g>
+    <text id="_itemName_11_" data-name="Sample item" transform="translate(205 1470)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">Sample item</tspan></text>
+    <text id="_vendorName_11_" data-name="Sample vendor" transform="translate(889 1470)" font-size="30" font-family="monospace" style="display: block;" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="0" y="0" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+    <text id="_modelCode_11_" data-name="SAMPLE-ITEM-11" transform="translate(1105 1470)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">SAMPLE-ITEM-11</tspan></text>
+    <g id="長方形_21-13" data-name="長方形 21" transform="translate(1529 1434)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="204" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="203" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_22-13" data-name="長方形 22" transform="translate(1732 1434)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="234" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="233" height="49" fill="none"></rect>
+    </g>
+    <text id="_unitPrice_11_" data-name="110" transform="translate(1725 1469)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">110</tspan></text>
+    <text id="_total_11_" data-name="1,210" transform="translate(1958 1469)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">1,210</tspan></text>
+    <text id="_quantity_11_" data-name="11" transform="translate(1452 1470)" font-size="30" font-family="monospace" style="display: block;" text-anchor="middle"><tspan x="0" y="0">11</tspan></text>
+    <g id="長方形_10-14" data-name="長方形 10" transform="translate(135 1483)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="55" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="54" height="49" fill="none"></rect>
+    </g>
+    <text id="_13" data-name="13" transform="translate(144 1519)" font-size="30" font-family="monospace"><tspan x="0" y="0">13</tspan></text>
+    <g id="長方形_9-14" data-name="長方形 9" transform="translate(878 1483)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="218" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="217" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_17-14" data-name="長方形 17" transform="translate(189 1483)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="690" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="689" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_18-14" data-name="長方形 18" transform="translate(1095 1483)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="285" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="284" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_19-14" data-name="長方形 19" transform="translate(1373 1483)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="157" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="156" height="49" fill="none"></rect>
+    </g>
+    <text id="_itemName_12_" data-name="Sample item" transform="translate(205 1519)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">Sample item</tspan></text>
+    <text id="_vendorName_12_" data-name="Sample vendor" transform="translate(889 1519)" font-size="30" font-family="monospace" style="display: block;" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="0" y="0" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+    <text id="_modelCode_12_" data-name="SAMPLE-ITEM-12" transform="translate(1105 1519)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">SAMPLE-ITEM-12</tspan></text>
+    <g id="長方形_21-14" data-name="長方形 21" transform="translate(1529 1483)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="204" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="203" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_22-14" data-name="長方形 22" transform="translate(1732 1483)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="234" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="233" height="49" fill="none"></rect>
+    </g>
+    <text id="_unitPrice_12_" data-name="120" transform="translate(1725 1518)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">120</tspan></text>
+    <text id="_total_12_" data-name="1,440" transform="translate(1958 1518)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">1,440</tspan></text>
+    <text id="_quantity_12_" data-name="12" transform="translate(1452 1519)" font-size="30" font-family="monospace" style="display: block;" text-anchor="middle"><tspan x="0" y="0">12</tspan></text>
+    <g id="長方形_10-15" data-name="長方形 10" transform="translate(135 1532)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="55" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="54" height="49" fill="none"></rect>
+    </g>
+    <text id="_14" data-name="14" transform="translate(144 1568)" font-size="30" font-family="monospace"><tspan x="0" y="0">14</tspan></text>
+    <g id="長方形_9-15" data-name="長方形 9" transform="translate(878 1532)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="218" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="217" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_17-15" data-name="長方形 17" transform="translate(189 1532)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="690" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="689" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_18-15" data-name="長方形 18" transform="translate(1095 1532)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="285" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="284" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_19-15" data-name="長方形 19" transform="translate(1373 1532)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="157" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="156" height="49" fill="none"></rect>
+    </g>
+    <text id="_itemName_13_" data-name="Sample item" transform="translate(205 1568)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">Sample item</tspan></text>
+    <text id="_vendorName_13_" data-name="Sample vendor" transform="translate(889 1568)" font-size="30" font-family="monospace" style="display: block;" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="0" y="0" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+    <text id="_modelCode_13_" data-name="SAMPLE-ITEM-13" transform="translate(1105 1568)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">SAMPLE-ITEM-13</tspan></text>
+    <g id="長方形_21-15" data-name="長方形 21" transform="translate(1529 1532)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="204" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="203" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_22-15" data-name="長方形 22" transform="translate(1732 1532)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="234" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="233" height="49" fill="none"></rect>
+    </g>
+    <text id="_unitPrice_13_" data-name="130" transform="translate(1725 1567)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">130</tspan></text>
+    <text id="_total_13_" data-name="1,690" transform="translate(1958 1567)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">1,690</tspan></text>
+    <text id="_quantity_13_" data-name="13" transform="translate(1452 1568)" font-size="30" font-family="monospace" style="display: block;" text-anchor="middle"><tspan x="0" y="0">13</tspan></text>
+    <g id="長方形_10-16" data-name="長方形 10" transform="translate(135 1581)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="55" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="54" height="49" fill="none"></rect>
+    </g>
+    <text id="_15" data-name="15" transform="translate(144 1617)" font-size="30" font-family="monospace"><tspan x="0" y="0">15</tspan></text>
+    <g id="長方形_9-16" data-name="長方形 9" transform="translate(878 1581)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="218" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="217" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_17-16" data-name="長方形 17" transform="translate(189 1581)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="690" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="689" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_18-16" data-name="長方形 18" transform="translate(1095 1581)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="285" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="284" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_19-16" data-name="長方形 19" transform="translate(1373 1581)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="157" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="156" height="49" fill="none"></rect>
+    </g>
+    <text id="_itemName_14_" data-name="Sample item" transform="translate(205 1617)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">Sample item</tspan></text>
+    <text id="_vendorName_14_" data-name="Sample vendor" transform="translate(889 1617)" font-size="30" font-family="monospace" style="display: block;" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="0" y="0" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+    <text id="_modelCode_14_" data-name="SAMPLE-ITEM-14" transform="translate(1105 1617)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">SAMPLE-ITEM-14</tspan></text>
+    <g id="長方形_21-16" data-name="長方形 21" transform="translate(1529 1581)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="204" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="203" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_22-16" data-name="長方形 22" transform="translate(1732 1581)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="234" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="233" height="49" fill="none"></rect>
+    </g>
+    <text id="_unitPrice_14_" data-name="140" transform="translate(1725 1616)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">140</tspan></text>
+    <text id="_total_14_" data-name="1,960" transform="translate(1958 1616)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">1,960</tspan></text>
+    <text id="_quantity_14_" data-name="14" transform="translate(1452 1617)" font-size="30" font-family="monospace" style="display: block;" text-anchor="middle"><tspan x="0" y="0">14</tspan></text>
+    <g id="長方形_10-17" data-name="長方形 10" transform="translate(135 1630)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="55" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="54" height="49" fill="none"></rect>
+    </g>
+    <text id="_16" data-name="16" transform="translate(144 1666)" font-size="30" font-family="monospace"><tspan x="0" y="0">16</tspan></text>
+    <g id="長方形_9-17" data-name="長方形 9" transform="translate(878 1630)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="218" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="217" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_17-17" data-name="長方形 17" transform="translate(189 1630)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="690" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="689" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_18-17" data-name="長方形 18" transform="translate(1095 1630)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="285" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="284" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_19-17" data-name="長方形 19" transform="translate(1373 1630)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="157" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="156" height="49" fill="none"></rect>
+    </g>
+    <text id="_itemName_15_" data-name="Sample item" transform="translate(205 1666)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">Sample item</tspan></text>
+    <text id="_vendorName_15_" data-name="Sample vendor" transform="translate(889 1666)" font-size="30" font-family="monospace" style="display: block;" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="0" y="0" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+    <text id="_modelCode_15_" data-name="SAMPLE-ITEM-15" transform="translate(1105 1666)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">SAMPLE-ITEM-15</tspan></text>
+    <g id="長方形_21-17" data-name="長方形 21" transform="translate(1529 1630)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="204" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="203" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_22-17" data-name="長方形 22" transform="translate(1732 1630)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="234" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="233" height="49" fill="none"></rect>
+    </g>
+    <text id="_unitPrice_15_" data-name="150" transform="translate(1725 1665)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">150</tspan></text>
+    <text id="_total_15_" data-name="2,250" transform="translate(1958 1665)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">2,250</tspan></text>
+    <text id="_quantity_15_" data-name="15" transform="translate(1452 1666)" font-size="30" font-family="monospace" style="display: block;" text-anchor="middle"><tspan x="0" y="0">15</tspan></text>
+    <g id="長方形_10-18" data-name="長方形 10" transform="translate(135 1679)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="55" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="54" height="49" fill="none"></rect>
+    </g>
+    <text id="_17" data-name="17" transform="translate(144 1715)" font-size="30" font-family="monospace"><tspan x="0" y="0">17</tspan></text>
+    <g id="長方形_9-18" data-name="長方形 9" transform="translate(878 1679)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="218" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="217" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_17-18" data-name="長方形 17" transform="translate(189 1679)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="690" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="689" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_18-18" data-name="長方形 18" transform="translate(1095 1679)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="285" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="284" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_19-18" data-name="長方形 19" transform="translate(1373 1679)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="157" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="156" height="49" fill="none"></rect>
+    </g>
+    <text id="_itemName_16_" data-name="Sample item" transform="translate(205 1715)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">Sample item</tspan></text>
+    <text id="_vendorName_16_" data-name="Sample vendor" transform="translate(889 1715)" font-size="30" font-family="monospace" style="display: block;" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="0" y="0" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+    <text id="_modelCode_16_" data-name="SAMPLE-ITEM-16" transform="translate(1105 1715)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">SAMPLE-ITEM-16</tspan></text>
+    <g id="長方形_21-18" data-name="長方形 21" transform="translate(1529 1679)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="204" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="203" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_22-18" data-name="長方形 22" transform="translate(1732 1679)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="234" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="233" height="49" fill="none"></rect>
+    </g>
+    <text id="_unitPrice_16_" data-name="160" transform="translate(1725 1714)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">160</tspan></text>
+    <text id="_total_16_" data-name="2,560" transform="translate(1958 1714)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">2,560</tspan></text>
+    <text id="_quantity_16_" data-name="16" transform="translate(1452 1715)" font-size="30" font-family="monospace" style="display: block;" text-anchor="middle"><tspan x="0" y="0">16</tspan></text>
+    <g id="長方形_10-19" data-name="長方形 10" transform="translate(135 1728)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="55" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="54" height="49" fill="none"></rect>
+    </g>
+    <text id="_18" data-name="18" transform="translate(144 1764)" font-size="30" font-family="monospace"><tspan x="0" y="0">18</tspan></text>
+    <g id="長方形_9-19" data-name="長方形 9" transform="translate(878 1728)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="218" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="217" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_17-19" data-name="長方形 17" transform="translate(189 1728)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="690" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="689" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_18-19" data-name="長方形 18" transform="translate(1095 1728)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="285" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="284" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_19-19" data-name="長方形 19" transform="translate(1373 1728)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="157" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="156" height="49" fill="none"></rect>
+    </g>
+    <text id="_itemName_17_" data-name="Sample item" transform="translate(205 1764)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">Sample item</tspan></text>
+    <text id="_vendorName_17_" data-name="Sample vendor" transform="translate(889 1764)" font-size="30" font-family="monospace" style="display: block;" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="0" y="0" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+    <text id="_modelCode_17_" data-name="SAMPLE-ITEM-17" transform="translate(1105 1764)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">SAMPLE-ITEM-17</tspan></text>
+    <g id="長方形_21-19" data-name="長方形 21" transform="translate(1529 1728)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="204" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="203" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_22-19" data-name="長方形 22" transform="translate(1732 1728)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="234" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="233" height="49" fill="none"></rect>
+    </g>
+    <text id="_unitPrice_17_" data-name="170" transform="translate(1725 1763)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">170</tspan></text>
+    <text id="_total_17_" data-name="2,890" transform="translate(1958 1763)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">2,890</tspan></text>
+    <text id="_quantity_17_" data-name="17" transform="translate(1452 1764)" font-size="30" font-family="monospace" style="display: block;" text-anchor="middle"><tspan x="0" y="0">17</tspan></text>
+    <g id="長方形_10-20" data-name="長方形 10" transform="translate(135 1777)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="55" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="54" height="49" fill="none"></rect>
+    </g>
+    <text id="_19" data-name="19" transform="translate(144 1813)" font-size="30" font-family="monospace"><tspan x="0" y="0">19</tspan></text>
+    <g id="長方形_9-20" data-name="長方形 9" transform="translate(878 1777)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="218" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="217" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_17-20" data-name="長方形 17" transform="translate(189 1777)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="690" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="689" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_18-20" data-name="長方形 18" transform="translate(1095 1777)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="285" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="284" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_19-20" data-name="長方形 19" transform="translate(1373 1777)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="157" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="156" height="49" fill="none"></rect>
+    </g>
+    <text id="_itemName_18_" data-name="Sample item" transform="translate(205 1813)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">Sample item</tspan></text>
+    <text id="_vendorName_18_" data-name="Sample vendor" transform="translate(889 1813)" font-size="30" font-family="monospace" style="display: block;" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="0" y="0" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+    <text id="_modelCode_18_" data-name="SAMPLE-ITEM-18" transform="translate(1105 1813)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">SAMPLE-ITEM-18</tspan></text>
+    <g id="長方形_21-20" data-name="長方形 21" transform="translate(1529 1777)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="204" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="203" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_22-20" data-name="長方形 22" transform="translate(1732 1777)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="234" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="233" height="49" fill="none"></rect>
+    </g>
+    <text id="_unitPrice_18_" data-name="180" transform="translate(1725 1812)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">180</tspan></text>
+    <text id="_total_18_" data-name="3,240" transform="translate(1958 1812)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">3,240</tspan></text>
+    <text id="_quantity_18_" data-name="18" transform="translate(1452 1813)" font-size="30" font-family="monospace" style="display: block;" text-anchor="middle"><tspan x="0" y="0">18</tspan></text>
+    <g id="長方形_10-21" data-name="長方形 10" transform="translate(135 1826)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="55" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="54" height="49" fill="none"></rect>
+    </g>
+    <text id="_20" data-name="20" transform="translate(144 1862)" font-size="30" font-family="monospace"><tspan x="0" y="0">20</tspan></text>
+    <g id="長方形_9-21" data-name="長方形 9" transform="translate(878 1826)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="218" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="217" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_17-21" data-name="長方形 17" transform="translate(189 1826)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="690" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="689" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_18-21" data-name="長方形 18" transform="translate(1095 1826)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="285" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="284" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_19-21" data-name="長方形 19" transform="translate(1373 1826)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="157" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="156" height="49" fill="none"></rect>
+    </g>
+    <text id="_itemName_19_" data-name="Sample item" transform="translate(205 1862)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">Sample item</tspan></text>
+    <text id="_vendorName_19_" data-name="Sample vendor" transform="translate(889 1862)" font-size="30" font-family="monospace" style="display: block;" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="0" y="0" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+    <text id="_modelCode_19_" data-name="SAMPLE-ITEM-19" transform="translate(1105 1862)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">SAMPLE-ITEM-19</tspan></text>
+    <g id="長方形_21-21" data-name="長方形 21" transform="translate(1529 1826)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="204" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="203" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_22-21" data-name="長方形 22" transform="translate(1732 1826)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="234" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="233" height="49" fill="none"></rect>
+    </g>
+    <text id="_unitPrice_19_" data-name="190" transform="translate(1725 1861)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">190</tspan></text>
+    <text id="_total_19_" data-name="3,610" transform="translate(1958 1861)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">3,610</tspan></text>
+    <text id="_quantity_19_" data-name="19" transform="translate(1452 1862)" font-size="30" font-family="monospace" style="display: block;" text-anchor="middle"><tspan x="0" y="0">19</tspan></text>
+    <g id="長方形_10-22" data-name="長方形 10" transform="translate(135 1875)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="55" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="54" height="49" fill="none"></rect>
+    </g>
+    <text id="_21" data-name="21" transform="translate(144 1911)" font-size="30" font-family="monospace"><tspan x="0" y="0">21</tspan></text>
+    <g id="長方形_9-22" data-name="長方形 9" transform="translate(878 1875)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="218" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="217" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_17-22" data-name="長方形 17" transform="translate(189 1875)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="690" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="689" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_18-22" data-name="長方形 18" transform="translate(1095 1875)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="285" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="284" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_19-22" data-name="長方形 19" transform="translate(1373 1875)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="157" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="156" height="49" fill="none"></rect>
+    </g>
+    <text id="_itemName_20_" data-name="Sample item" transform="translate(205 1911)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">Sample item</tspan></text>
+    <text id="_vendorName_20_" data-name="Sample vendor" transform="translate(889 1911)" font-size="30" font-family="monospace" style="display: block;" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="0" y="0" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+    <text id="_modelCode_20_" data-name="SAMPLE-ITEM-20" transform="translate(1105 1911)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">SAMPLE-ITEM-20</tspan></text>
+    <g id="長方形_21-22" data-name="長方形 21" transform="translate(1529 1875)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="204" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="203" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_22-22" data-name="長方形 22" transform="translate(1732 1875)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="234" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="233" height="49" fill="none"></rect>
+    </g>
+    <text id="_unitPrice_20_" data-name="200" transform="translate(1725 1910)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">200</tspan></text>
+    <text id="_total_20_" data-name="4,000" transform="translate(1958 1910)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">4,000</tspan></text>
+    <text id="_quantity_20_" data-name="20" transform="translate(1452 1911)" font-size="30" font-family="monospace" style="display: block;" text-anchor="middle"><tspan x="0" y="0">20</tspan></text>
+    <g id="長方形_10-23" data-name="長方形 10" transform="translate(135 1924)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="55" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="54" height="49" fill="none"></rect>
+    </g>
+    <text id="_22" data-name="22" transform="translate(144 1960)" font-size="30" font-family="monospace"><tspan x="0" y="0">22</tspan></text>
+    <g id="長方形_9-23" data-name="長方形 9" transform="translate(878 1924)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="218" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="217" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_17-23" data-name="長方形 17" transform="translate(189 1924)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="690" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="689" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_18-23" data-name="長方形 18" transform="translate(1095 1924)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="285" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="284" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_19-23" data-name="長方形 19" transform="translate(1373 1924)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="157" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="156" height="49" fill="none"></rect>
+    </g>
+    <text id="_itemName_21_" data-name="Sample item" transform="translate(205 1960)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">Sample item</tspan></text>
+    <text id="_vendorName_21_" data-name="Sample vendor" transform="translate(889 1960)" font-size="30" font-family="monospace" style="display: block;" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="0" y="0" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+    <text id="_modelCode_21_" data-name="SAMPLE-ITEM-21" transform="translate(1105 1960)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">SAMPLE-ITEM-21</tspan></text>
+    <g id="長方形_21-23" data-name="長方形 21" transform="translate(1529 1924)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="204" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="203" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_22-23" data-name="長方形 22" transform="translate(1732 1924)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="234" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="233" height="49" fill="none"></rect>
+    </g>
+    <text id="_unitPrice_21_" data-name="210" transform="translate(1725 1959)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">210</tspan></text>
+    <text id="_total_21_" data-name="4,410" transform="translate(1958 1959)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">4,410</tspan></text>
+    <text id="_quantity_21_" data-name="21" transform="translate(1452 1960)" font-size="30" font-family="monospace" style="display: block;" text-anchor="middle"><tspan x="0" y="0">21</tspan></text>
+    <g id="長方形_10-24" data-name="長方形 10" transform="translate(135 1973)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="55" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="54" height="49" fill="none"></rect>
+    </g>
+    <text id="_23" data-name="23" transform="translate(144 2009)" font-size="30" font-family="monospace"><tspan x="0" y="0">23</tspan></text>
+    <g id="長方形_9-24" data-name="長方形 9" transform="translate(878 1973)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="218" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="217" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_17-24" data-name="長方形 17" transform="translate(189 1973)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="690" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="689" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_18-24" data-name="長方形 18" transform="translate(1095 1973)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="285" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="284" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_19-24" data-name="長方形 19" transform="translate(1373 1973)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="157" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="156" height="49" fill="none"></rect>
+    </g>
+    <text id="_itemName_22_" data-name="Sample item" transform="translate(205 2009)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">Sample item</tspan></text>
+    <text id="_vendorName_22_" data-name="Sample vendor" transform="translate(889 2009)" font-size="30" font-family="monospace" style="display: block;" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="0" y="0" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+    <text id="_modelCode_22_" data-name="SAMPLE-ITEM-22" transform="translate(1105 2009)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">SAMPLE-ITEM-22</tspan></text>
+    <g id="長方形_21-24" data-name="長方形 21" transform="translate(1529 1973)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="204" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="203" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_22-24" data-name="長方形 22" transform="translate(1732 1973)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="234" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="233" height="49" fill="none"></rect>
+    </g>
+    <text id="_unitPrice_22_" data-name="220" transform="translate(1725 2008)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">220</tspan></text>
+    <text id="_total_22_" data-name="4,840" transform="translate(1958 2008)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">4,840</tspan></text>
+    <text id="_quantity_22_" data-name="22" transform="translate(1452 2009)" font-size="30" font-family="monospace" style="display: block;" text-anchor="middle"><tspan x="0" y="0">22</tspan></text>
+    <g id="長方形_10-25" data-name="長方形 10" transform="translate(135 2022)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="55" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="54" height="49" fill="none"></rect>
+    </g>
+    <text id="_24" data-name="24" transform="translate(144 2058)" font-size="30" font-family="monospace"><tspan x="0" y="0">24</tspan></text>
+    <g id="長方形_9-25" data-name="長方形 9" transform="translate(878 2022)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="218" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="217" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_17-25" data-name="長方形 17" transform="translate(189 2022)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="690" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="689" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_18-25" data-name="長方形 18" transform="translate(1095 2022)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="285" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="284" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_19-25" data-name="長方形 19" transform="translate(1373 2022)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="157" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="156" height="49" fill="none"></rect>
+    </g>
+    <text id="_itemName_23_" data-name="Sample item" transform="translate(205 2058)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">Sample item</tspan></text>
+    <text id="_vendorName_23_" data-name="Sample vendor" transform="translate(889 2058)" font-size="30" font-family="monospace" style="display: block;" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="0" y="0" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+    <text id="_modelCode_23_" data-name="SAMPLE-ITEM-23" transform="translate(1105 2058)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">SAMPLE-ITEM-23</tspan></text>
+    <g id="長方形_21-25" data-name="長方形 21" transform="translate(1529 2022)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="204" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="203" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_22-25" data-name="長方形 22" transform="translate(1732 2022)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="234" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="233" height="49" fill="none"></rect>
+    </g>
+    <text id="_unitPrice_23_" data-name="230" transform="translate(1725 2057)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">230</tspan></text>
+    <text id="_total_23_" data-name="5,290" transform="translate(1958 2057)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">5,290</tspan></text>
+    <text id="_quantity_23_" data-name="23" transform="translate(1452 2058)" font-size="30" font-family="monospace" style="display: block;" text-anchor="middle"><tspan x="0" y="0">23</tspan></text>
+    <g id="長方形_10-26" data-name="長方形 10" transform="translate(135 2071)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="55" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="54" height="49" fill="none"></rect>
+    </g>
+    <text id="_25" data-name="25" transform="translate(144 2107)" font-size="30" font-family="monospace"><tspan x="0" y="0">25</tspan></text>
+    <g id="長方形_9-26" data-name="長方形 9" transform="translate(878 2071)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="218" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="217" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_17-26" data-name="長方形 17" transform="translate(189 2071)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="690" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="689" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_18-26" data-name="長方形 18" transform="translate(1095 2071)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="285" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="284" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_19-26" data-name="長方形 19" transform="translate(1373 2071)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="157" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="156" height="49" fill="none"></rect>
+    </g>
+    <text id="_itemName_24_" data-name="Sample item" transform="translate(205 2107)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">Sample item</tspan></text>
+    <text id="_vendorName_24_" data-name="Sample vendor" transform="translate(889 2107)" font-size="30" font-family="monospace" style="display: block;" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="0" y="0" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+    <text id="_modelCode_24_" data-name="SAMPLE-ITEM-24" transform="translate(1105 2107)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">SAMPLE-ITEM-24</tspan></text>
+    <g id="長方形_21-26" data-name="長方形 21" transform="translate(1529 2071)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="204" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="203" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_22-26" data-name="長方形 22" transform="translate(1732 2071)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="234" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="233" height="49" fill="none"></rect>
+    </g>
+    <text id="_unitPrice_24_" data-name="240" transform="translate(1725 2106)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">240</tspan></text>
+    <text id="_total_24_" data-name="5,760" transform="translate(1958 2106)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">5,760</tspan></text>
+    <text id="_quantity_24_" data-name="24" transform="translate(1452 2107)" font-size="30" font-family="monospace" style="display: block;" text-anchor="middle"><tspan x="0" y="0">24</tspan></text>
+    <g id="長方形_10-27" data-name="長方形 10" transform="translate(135 2120)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="55" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="54" height="49" fill="none"></rect>
+    </g>
+    <text id="_26" data-name="26" transform="translate(144 2156)" font-size="30" font-family="monospace"><tspan x="0" y="0">26</tspan></text>
+    <g id="長方形_9-27" data-name="長方形 9" transform="translate(878 2120)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="218" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="217" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_17-27" data-name="長方形 17" transform="translate(189 2120)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="690" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="689" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_18-27" data-name="長方形 18" transform="translate(1095 2120)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="285" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="284" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_19-27" data-name="長方形 19" transform="translate(1373 2120)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="157" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="156" height="49" fill="none"></rect>
+    </g>
+    <text id="_itemName_25_" data-name="Sample item" transform="translate(205 2156)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">Sample item</tspan></text>
+    <text id="_vendorName_25_" data-name="Sample vendor" transform="translate(889 2156)" font-size="30" font-family="monospace" style="display: block;" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="0" y="0" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+    <text id="_modelCode_25_" data-name="SAMPLE-ITEM-25" transform="translate(1105 2156)" font-size="30" font-family="monospace" style="display: block;"><tspan x="0" y="0">SAMPLE-ITEM-25</tspan></text>
+    <g id="長方形_21-27" data-name="長方形 21" transform="translate(1529 2120)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="204" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="203" height="49" fill="none"></rect>
+    </g>
+    <g id="長方形_22-27" data-name="長方形 22" transform="translate(1732 2120)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="234" height="50" stroke="none"></rect>
+      <rect x="0.5" y="0.5" width="233" height="49" fill="none"></rect>
+    </g>
+    <text id="_unitPrice_25_" data-name="250" transform="translate(1725 2155)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">250</tspan></text>
+    <text id="_total_25_" data-name="6,250" transform="translate(1958 2155)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">6,250</tspan></text>
+    <text id="_quantity_25_" data-name="25" transform="translate(1452 2156)" font-size="30" font-family="monospace" style="display: block;" text-anchor="middle"><tspan x="0" y="0">25</tspan></text>
+    <text id="_subtotal_" data-name="55,250" transform="translate(1958 2215)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">55,250</tspan></text>
+    <text id="Subtotal" transform="translate(1572 2215)" font-size="30" font-family="monospace"><tspan x="0" y="0">Subtotal</tspan></text>
+    <text id="Discount" transform="translate(1568 2283)" font-size="30" font-family="monospace"><tspan x="0" y="0">Discount</tspan></text>
+    <text id="Discounted_Subtotal" data-name="Discounted
+Subtotal" transform="translate(1631 2337)" font-size="25" font-family="monospace"><tspan x="-67.297" y="0">Discounted</tspan><tspan x="-49.115" y="25">Subtotal</tspan></text>
+    <text id="Tax" transform="translate(1607 2419)" font-size="30" font-family="monospace"><tspan x="0" y="0">Tax</tspan></text>
+    <text id="Quote_total" data-name="Quote total" transform="translate(1552 2487)" font-size="30" font-family="monospace"><tspan x="0" y="0">Quote total</tspan></text>
+    <text id="_discount_" data-name="100" transform="translate(1955 2283)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">100</tspan></text>
+    <text id="_remark_" data-name="This is a remark. This is a remark. This is a remark. This is a remark. This is a remark. This is a remark. This is a remark. This is a remark. This is a remark. This is a remark. This is a remark. This is a remark. This is a remark." transform="translate(135 2300)" font-size="30" font-family="monospace"><tspan x="15" y="15">This is a remark. This is a remark. This is a remark. This is a remark. This is a rema</tspan><tspan x="15" y="51">rk. This is a remark. This is a remark. This is a remark. This is a remark. This is a </tspan><tspan x="15" y="87">remark. This is a remark. This is a remark. This is a remark.</tspan></text>
+    <text id="_discountedSubtotal_" data-name="55,150" transform="translate(1958 2351)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">55,150</tspan></text>
+    <text id="_tax_" data-name="5,515" transform="translate(1958 2419)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">5,515</tspan></text>
+    <text id="_quoteTotal_" data-name="60,665" transform="translate(1958 2487)" font-size="30" font-family="monospace" style="display: block;" text-anchor="end"><tspan x="0" y="0">60,665</tspan></text>
+    <text id="_additionalComment_" data-name="This is an additional comment. This is an additional comment. This is an additional comment. This is an additional comment. This is an additional comment. This is an additional comment. This is an additional comment. This is an additional comment. This is an additional comment." transform="translate(138 2583)" font-size="30" font-family="monospace"><tspan x="15" y="15">This is an additional comment. This is an additional comment. This is an additional comment. This is an additional comme</tspan><tspan x="15" y="51">nt. This is an additional comment. This is an additional comment. This is an additional comment. This is an additional c</tspan><tspan x="15" y="87">omment. This is an additional comment.</tspan></text>
+    <text id="date" transform="translate(1503 410.249)" font-size="23" font-family="monospace"><tspan x="0" y="0">date</tspan></text>
+    <rect id="長方形_144" data-name="長方形 144" width="513" height="136" transform="translate(1452 594)" fill="#fff"></rect>
+    <text id="_address_" data-name="1600 Amphitheatre Parkway
+Mountain View, CA 94043
+United States" transform="translate(1452 616)" font-size="25" font-family="monospace"><tspan x="12.5" y="12.5">1600 Amphitheatre Parkway</tspan><tspan x="12.5" y="42.5">Mountain View, CA 94043</tspan><tspan x="12.5" y="72.5">United States</tspan></text>
+    <text id="Delivered_by" data-name="Delivered by" transform="translate(184 573.147)" font-size="30" font-family="monospace"><tspan x="0" y="0">Delivered by</tspan></text>
+    <image id="kannade-logo" width="330" height="81" transform="translate(1451 504)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUoAAABRCAIAAAA7LXi+AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA/RpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDYuMC1jMDA2IDc5LmRhYmFjYmIsIDIwMjEvMDQvMTQtMDA6Mzk6NDQgICAgICAgICI+IDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+IDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1NjdEQTgyQ0E0NzFFQTExOTJDMDgyMkJGNDk0MUY4MiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo4OEQ3N0I2REJEQzAxMUVCODQ4NkE1QTQ3MUQ3MkI0NiIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo4OEQ3N0I2Q0JEQzAxMUVCODQ4NkE1QTQ3MUQ3MkI0NiIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBJbGx1c3RyYXRvciBDUzYgKFdpbmRvd3MpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6YjBjYWFmNjEtZmJlMC00N2IwLWFiYzYtNWZmZjMyZjNlYTdkIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlk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"></image>
+  </g>
+</svg>
