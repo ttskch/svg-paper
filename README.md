@@ -16,8 +16,7 @@ You can print beautiful and maintainable paper documents by following steps:
 1. Design the document with [Adobe XD](https://www.adobe.com/products/xd.html), [Figma](https://www.figma.com/), or something
 1. Export it as SVG
 1. Embed SVG into your html and fix it with **svg-paper**
-1. Write a little CSS for previewing
-1. That's it 👍
+1. That's it 💥
 
 ## Installation
 
@@ -74,6 +73,32 @@ paper
   // finally, apply all replacing and adjusting to DOM
   .apply()
 ```
+
+To beautify preview screen, you only have to add 3 lines to your html 👍
+
+```html
+<head>
+  ...
+  <link rel="stylesheet" href="svg-paper.min.css"> <!-- here -->
+  <style>@page { size: A4 }</style> <!-- here -->
+</head>
+
+<body class="A4"> <!-- here -->
+...
+</body>
+```
+
+First load `svg-paper.min.css` (or `svg-paper.css`). After that in `<head>` set [@page size](https://developer.mozilla.org/en-US/docs/Web/CSS/@page/size) and set the class of `<body>` to specify page size.
+
+Available page sizes are:
+
+* `A3` `A3 landscape`
+* `A4` `A4 landscape`
+* `A5` `A5 landscape`
+* `letter` `letter landscape`
+* `legal` `legal landscape`
+
+### Learn more
 
 Please see [test code](js/tests/functional.test.js) to learn more 👌
 
@@ -170,15 +195,16 @@ class YourPaperDefinition
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=1">
   <title>Paper</title>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/svg-paper@0.0.0/dist/svg-paper.min.css">
+  <link rel="stylesheet" href="svg-paper.min.css">
+  <style>@page { size: A4 }</style>
 </head>
 
-<body class="{% block body_class %}{{ block('title') }}{% endblock %}">
+<body class="A4">
   {{ svg|raw }}
   <div data-replacements="{{ replacements|json_encode }}"></div>
   <div data-text-adjustments="{{ textAdjustments|json_encode }}"></div>
   <div data-textarea-adjustments="{{ textAdjustments|json_encode }}"></div>
-  <script src="https://cdn.jsdelivr.net/npm/svg-paper@0.0.0/dist/svg-paper.min.js"></script>
+  <script src="svg-paper.min.js"></script>
   <script src="your-script.js"></script>
 </body>
 </html>
