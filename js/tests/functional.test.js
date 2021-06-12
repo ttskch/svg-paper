@@ -129,5 +129,5 @@ test('real world paper created with Adobe XD', () => {
   paper.apply()
 
   fs.writeFileSync('js/tests/output/real-world-paper-xd.svg', document.body.innerHTML)
-  fs.writeFileSync('js/tests/output/real-world-paper-xd.html', '<!DOCTYPE html><html><head><link rel="stylesheet" href="../../../dist/svg-paper.min.css"></head><body>' + document.body.innerHTML + '</body></html>')
+  fs.writeFileSync('js/tests/output/real-world-paper-xd.html', '<!DOCTYPE html><html><head><link rel="stylesheet" href="../../../dist/svg-paper.min.css"><style>@page{size:A4}</style></head><body class="A4">' + document.body.innerHTML + '</body></html>')
 })
