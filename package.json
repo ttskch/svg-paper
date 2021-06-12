@@ -1,7 +1,7 @@
 {
   "name": "svg-paper",
-  "version": "0.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "The world's most maintainable way to create paper-printable documents \uD83D\uDDA8\uD83D\uDC98",
   "homepage": "https://github.com/ttskch/svg-paper",
   "bugs": {
     "url": "https://github.com/ttskch/svg-paper/issues"
