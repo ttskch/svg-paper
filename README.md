@@ -23,8 +23,8 @@ You can print beautiful and maintainable paper documents by following steps:
 ### CDN
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/svg-paper@0.0.0/dist/svg-paper.min.css">
-<script src="https://cdn.jsdelivr.net/npm/svg-paper@0.0.0/dist/svg-paper.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/svg-paper@x.x.x/dist/svg-paper.min.css">
+<script src="https://cdn.jsdelivr.net/npm/svg-paper@x.x.x/dist/svg-paper.min.js"></script>
 ```
 
 ### npm
