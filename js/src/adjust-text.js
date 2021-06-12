@@ -8,7 +8,7 @@ export default (selector, config) => {
   }
 
   // shrink text element to specified width
-  if ('textLength' in config && config['textLength']) {
+  if (!!config['textLength']) {
     // for firefox
     // @see https://developer.mozilla.org/ja/docs/Web/API/Element/clientWidth
     $this.style.display = 'block'
@@ -25,24 +25,21 @@ export default (selector, config) => {
   }
 
   // alignment
-  if ('text-anchor' in config && config['text-anchor'] && config['text-anchor'] !== 'start') {
-    // effective only when textLength is specified and text element has transform="translate(x y)"
-    const match = $this.getAttribute('transform')?.match(/translate\(([^ ]+) .+\)/)
-    if (!config['textLength'] || !match) {
-      return
+  if (!!config['text-anchor'] && config['text-anchor'] !== 'start') {
+    const w = parseFloat(config['textLength'])
+    let x = 0
+    let y = 0
+    if ($this.getAttribute('transform')) {
+      x = parseFloat($this.getAttribute('transform').match(/translate\((\S+) .+\)/)[1])
+      y = parseFloat($this.getAttribute('transform').match(/translate\(\S+ (.+)\)/)[1])
     }
 
-    const w = parseFloat(config['textLength'])
-    const x = parseFloat(match[1])
-
     if (config['text-anchor'] === 'middle') {
-      const newTransform = $this.getAttribute('transform').replace(/translate\([^ ]+ (.+)\)/, `translate(${x + (w / 2)} $1)`)
-      $this.setAttribute('transform', newTransform)
+      $this.setAttribute('transform', `translate(${x + (w / 2)} ${y})`)
     }
 
     if (config['text-anchor'] === 'end') {
-      const newTransform = $this.getAttribute('transform').replace(/translate\([^ ]+ (.+)\)/, `translate(${x + w} $1)`)
-      $this.setAttribute('transform', newTransform)
+      $this.setAttribute('transform', `translate(${x + w} ${y})`)
     }
 
     $this.setAttribute('text-anchor', config['text-anchor'])

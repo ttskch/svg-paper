@@ -1,6 +1,7 @@
 'use strict'
 
 import splitStringByWidth from './utility/split-string-by-width'
+import fixTextTransform from './utility/fix-text-transform'
 
 export default (textSvg, textContent, width, height, lineHeight = 1.2, paddingX = 0.5, paddingY = 0.5, nowrap = false) => {
   if (!textSvg.match(new RegExp('<text [^>]*font-size="\\d+"[^>]*><tspan( [^>]*>|>)[^<>]*</tspan></text>'))) {
@@ -34,10 +35,10 @@ export default (textSvg, textContent, width, height, lineHeight = 1.2, paddingX 
     }
   }
 
-  // raise y-coordinate up because y-coordinate of <text transform="translate(x y)"> is on lower base of text object
+  // raise y-coordinate up because y-coordinate of <text transform="translate(x y)"> or <tspan y=""> is on lower base of text object
   const adjustY = fontSize - originalFontSize
 
-  let adjustedTextSvg = textSvg
+  let adjustedTextSvg = fixTextTransform(textSvg)
   adjustedTextSvg = adjustedTextSvg.replace(new RegExp('<tspan(.|\\s)+</text>'), '')
   adjustedTextSvg = adjustedTextSvg.replace(new RegExp('font-size="\\d+"'), `font-size="${fontSize}"`)
   adjustedTextSvg += '{tspan}</text>'
