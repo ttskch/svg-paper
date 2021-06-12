@@ -22,7 +22,7 @@ export default class SvgPaper {
     }
 
     // cast to string
-    replacement = replacement ? replacement + '' : ''
+    replacement = replacement !== undefined && replacement !== null ? replacement + '' : ''
 
     replacement = replacement.replace(/[\r|\n]+/g, "\n")
 
