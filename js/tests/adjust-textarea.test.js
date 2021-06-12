@@ -7,7 +7,7 @@ test('with only single-byte characters without shrinking', () => {
   const textContent = "abcdefghijklmnopqrstuvwxyz\nabcdefghijklmnopqrstuvwxyz"
   const width = 100
   const height = 40
-  const expectedAdjustedTextSvg = '<text font-size="10">' +
+  const expectedAdjustedTextSvg = '<text font-size="10" transform="translate(0 0)">' +
     '<tspan x="0" y="0">abcdefghijklmnopqrst</tspan>' +
     '<tspan x="0" y="10">uvwxyz</tspan>' +
     '<tspan x="0" y="20">abcdefghijklmnopqrst</tspan>' +
@@ -24,7 +24,7 @@ test('with only single-byte characters with shrinking', () => {
   const textContent = "abcdefghijklmnopqrstuvwxyz\nabcdefghijklmnopqrstuvwxyz"
   const width = 50
   const height = 20
-  const expectedAdjustedTextSvg = '<text font-size="4.876749791155296">' +
+  const expectedAdjustedTextSvg = '<text font-size="4.876749791155296" transform="translate(0 0)">' +
     '<tspan x="0" y="-5.123250208844704">abcdefghijklmnopqrst</tspan>' +
     '<tspan x="0" y="-0.24650041768940767">uvwxyz</tspan>' +
     '<tspan x="0" y="4.6302493734658885">abcdefghijklmnopqrst</tspan>' +
@@ -41,7 +41,7 @@ test('with only multi-byte characters without shrinking', () => {
   const textContent = "あいうえおかきくけこ\nさしすせそたちつてと"
   const width = 100
   const height = 20
-  const expectedAdjustedTextSvg = '<text font-size="10">' +
+  const expectedAdjustedTextSvg = '<text font-size="10" transform="translate(0 0)">' +
     '<tspan x="0" y="0">あいうえおかきくけこ</tspan>' +
     '<tspan x="0" y="10">さしすせそたちつてと</tspan>' +
     '</text>'
@@ -56,7 +56,7 @@ test('with only multi-byte characters with shrinking', () => {
   const textContent = "あいうえおかきくけこ\nさしすせそたちつてと"
   const width = 30
   const height = 20
-  const expectedAdjustedTextSvg = '<text font-size="4.876749791155296">' +
+  const expectedAdjustedTextSvg = '<text font-size="4.876749791155296" transform="translate(0 0)">' +
     '<tspan x="0" y="-5.123250208844704">あいうえおか</tspan>' +
     '<tspan x="0" y="-0.24650041768940767">きくけこ</tspan>' +
     '<tspan x="0" y="4.6302493734658885">さしすせそた</tspan>' +
