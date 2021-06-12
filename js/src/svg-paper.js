@@ -53,7 +53,9 @@ export default class SvgPaper {
   }
 
   apply() {
-    document.querySelector(this.selector).outerHTML = this.svg
+    if (this.svg !== document.querySelector(this.selector).outerHTML) {
+      document.querySelector(this.selector).outerHTML = this.svg
+    }
 
     this.adjustTextQueries.forEach(query => {
       adjustText(query.selector, {
@@ -63,6 +65,7 @@ export default class SvgPaper {
     })
 
     // initialize
+    this.svg = document.querySelector(this.selector).outerHTML
     this.adjustTextQueries = []
   }
 }
