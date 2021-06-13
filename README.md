@@ -9,7 +9,7 @@ The world's most maintainable way to create paper-printable documents 🖨💘
 
 ![](https://user-images.githubusercontent.com/4360663/121766151-f6b64d80-cb8a-11eb-8736-3a28b4c03d70.png)
 
-## Concepts
+## Workflows
 
 You can print beautiful and maintainable paper documents by following steps:
 
@@ -18,47 +18,31 @@ You can print beautiful and maintainable paper documents by following steps:
 1. Embed SVG into your HTML and fix it with **svg-paper**
 1. That's it 💥
 
+To learn more please see [this doc](docs/workflows/README.md) 📝
+
 ## Installation
 
 ### CDN
 
+You can get built assets from [jsDelivr](https://www.jsdelivr.com/package/npm/svg-paper).
+
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/svg-paper@x.x.x/dist/svg-paper.min.css">
+
 <script src="https://cdn.jsdelivr.net/npm/svg-paper@x.x.x/dist/svg-paper.min.js"></script>
 ```
 
 ### npm
 
+Of course you can install via [npm](https://www.npmjs.com/package/svg-paper).
+
 ```bash
 $ npm install svg-paper
 ```
 
-## Preparing SVG template
+## Basic usage
 
-### Using Adobe XD is strongly recommended
-
-If you use Adobe XD, you are lucky because if you put some placeholders in the artboard like `%placeholder1%` or `%serialPlaceholder[0]%`, Adobe XD assigns id to `<text>` elements like `_placeholder1_` or `_serialPlaceholder_0_` automatically.
-
-From this, you can embed the exported SVG into your HTML without any modification even if you use characters that cannot be used for id, and as a result, you can replace only placeholder as a value without replacing id 🙌
-
-### Figma is not very good...
-
-Figma doesn't do these things like Adobe XD. So if you use Figma, you have to replace id for example like as following. 
-
-```bash
-$ sed -E 's/id="%([^%]+)%"/id="_\1_"/' /path/to/exported-from-figma.svg \
-| sed -E 's/id="_(.+)\[(.+)\]_"/id="_\1_\2_"/' > /path/to/exported-from-figma.tweaked.svg
-```
-
-This command converts ids to safe format.
-
-And one more thing. With Figma, not using multi-byte characters in your placeholder labels is strongly recommended.
-
-If you use multi-byte characters, Figma converts them into [XML character reference](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references#Character_reference_overview) when exporting. This is very inconvenient to replace or specify as id.
-
-## Basic usage of svg-paper
-
-Anyway, once SVG template is ready, rest is so easy 👍 You can replace or adjust contents easily with svg-paper like following.
+You can replace or adjust SVG contents in HTML easily with svg-paper like following.
 
 ```js
 import SvgPaper from 'svg-paper'
@@ -99,7 +83,7 @@ paper
   .apply()
 ```
 
-To beautify preview screen, you only have to add 3 lines to your html 👍
+To beautify preview screen, you should add only 3 lines to your HTML 👍
 
 ```html
 <head>
@@ -113,7 +97,7 @@ To beautify preview screen, you only have to add 3 lines to your html 👍
 </body>
 ```
 
-First load `svg-paper.min.css` (or `svg-paper.css`). After that in `<head>` set [@page size](https://developer.mozilla.org/en-US/docs/Web/CSS/@page/size) and set the class of `<body>` to specify page size.
+Just load `svg-paper.min.css` (or `svg-paper.css`), in `<head>` set [@page size](https://developer.mozilla.org/en-US/docs/Web/CSS/@page/size), and set the class of `<body>` to specify page size.
 
 Available page sizes are:
 
@@ -123,22 +107,15 @@ Available page sizes are:
 * `letter` `letter landscape`
 * `legal` `legal landscape`
 
-### Learn more
+To learn more about usage please see [this doc](docs/workflows/README.md) or [some test codes](js/tests/real-world.test.js).
 
-Please see [test code](js/tests/functional.test.js) to learn more 👌
+## Tips
 
-You also can see the live demo on your local by following steps:
-
-1. `git clone` this repo
-1. `npm install`
-1. `npm run test js/tests/functional.test.js`
-1. open `js/tests/output/real-world-paper-xd.html` or `js/tests/output/real-world-paper-figma.html` in your browser
-
-### Tips: Hiding content before placeholders are replaced
+### Hiding content before placeholders are replaced
 
 svg-paper replaces placeholders and adjust text/textarea after DOM loaded, so the content before replaced and adjusted will be shown on the screen for a moment 🤔
 
-This problem is very easy to solve just by adding some "blinder" layer on the content and hide it after `.apply()` 👍
+This problem is very easy to solve just by adding some "blinder" layer on the content and disappear it after `.apply()` 👍
 
 ```html
 <body>
@@ -153,10 +130,11 @@ paper.apply()
 document.querySelector('#blinder').style.display = 'none'
 ```
 
-
 ## With non Node.js back-end
 
-If your back-end isn't Node.js, you can use svg-paper by passing replacements and text/textarea adjustment parameters to front-end as JSON string.
+Even if your back-end isn't Node.js, of course you can use svg-paper 👍
+
+The most easy ways is just passing replacements and text/textarea adjustment parameters to front-end as JSON string.
 
 ### e.g. PHP and Twig
 
@@ -216,10 +194,6 @@ class YourPaperDefinition
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=1">
-  <title>Paper</title>
   <link rel="stylesheet" href="svg-paper.min.css">
   <style>@page { size: A4 }</style>
 </head>
@@ -260,9 +234,11 @@ paper.apply()
 
 ## PDF Generation
 
-You can easily print to PDF by using [electron-pdf](https://github.com/fraserxu/electron-pdf).
+You can easily print to PDF directly by using [electron-pdf](https://github.com/fraserxu/electron-pdf).
 
 ```bash
 $ npm install --global electron-pdf
 $ electron-pdf your-document.html your-document.pdf
 ```
+
+Enjoy! ✨
