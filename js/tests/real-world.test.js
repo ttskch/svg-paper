@@ -76,8 +76,8 @@ function doTest(pathToOriginalSvg, pathToOutputSvg, pathToOutputHtml, pathToExpe
     .adjustTextarea('#_remark_', 1343, 235)
     .replace('%additionalComment%', 'This is an additional comment. This is an additional comment. This is an additional comment. This is an additional comment. This is an additional comment. This is an additional comment. This is an additional comment. This is an additional comment. This is an additional comment.')
     .adjustTextarea('#_additionalComment_', 1830, 287)
-    .replace('font-family="IPAexGothic"', 'font-family="monospace"')
-    .replace('font-family="Roboto"', 'font-family="monospace"')
+    .replace('font-family="IPAexGothic"', 'font-family="sans-serif"')
+    .replace('font-family="Roboto"', 'font-family="sans-serif"')
 
   paper.apply()
 

@@ -55,29 +55,29 @@
 <path id="Vector_26" d="M1291 110H810C798.402 110 789 119.402 789 131V202C789 213.598 798.402 223 810 223H1291C1302.6 223 1312 213.598 1312 202V131C1312 119.402 1302.6 110 1291 110Z" fill="white"></path>
 <path id="Vector_27" d="M1291 110.5H810C798.678 110.5 789.5 119.678 789.5 131V202C789.5 213.322 798.678 222.5 810 222.5H1291C1302.32 222.5 1311.5 213.322 1311.5 202V131C1311.5 119.678 1302.32 110.5 1291 110.5Z" stroke="black"></path>
 </g>
-<text id="ESTIMATE" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="70" letter-spacing="0em"><tspan x="887" y="188.926">ESTIMATE</tspan></text>
+<text id="ESTIMATE" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="70" letter-spacing="0em"><tspan x="887" y="188.926">ESTIMATE</tspan></text>
 <path id="ç·š 1" d="M135 389.783H1380.71" stroke="black"></path>
-<text id="_customerName_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="43" letter-spacing="0em" transform="translate(615 0)" text-anchor="middle"><tspan x="135" y="361.435">Mr. John Smith</tspan></text>
+<text id="_customerName_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="43" letter-spacing="0em" transform="translate(615 0)" text-anchor="middle"><tspan x="135" y="361.435">Mr. John Smith</tspan></text>
 <path id="ç·š 2" d="M135 459.918H1380.71" stroke="black"></path>
-<text id="Case name" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="184" y="429.838">Case name</tspan></text>
+<text id="Case name" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="184" y="429.838">Case name</tspan></text>
 <path id="ç·š 4" d="M135 530.053H1380.71" stroke="black"></path>
 <path id="ç·š 5" d="M135.586 600.188H1381.29" stroke="black"></path>
 <path id="ç·š 6" d="M135.586 670.323H1381.29" stroke="black"></path>
 <path id="ç·š 7" d="M135 760.556H1380.71" stroke="black"></path>
-<text id="Deliver to" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="184" y="502.713">Deliver to</tspan></text>
-<text id="Expired at" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="184" y="644.983">Expired at</tspan></text>
-<text id="Total amount" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="184" y="731.669">Total amount</tspan></text>
-<text id="Remark" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="154" y="2253.75">Remark</tspan></text>
-<text id="_caseName_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="408.361" y="430.629">Case 1234</tspan></text>
-<text id="_date_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="31" letter-spacing="0em"><tspan x="1597.75" y="410.906">2021-06-01</tspan></text>
-<text id="_number_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="31" letter-spacing="0em"><tspan x="1597.75" y="464.867">EST-20210601-001</tspan></text>
-<text id="_deliverTo_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="408.361" y="502.713">California headquotes</tspan></text>
-<text id="_deliveredBy_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="408.361" y="573.816">2021-12-31</tspan></text>
-<text id="_expiredAt_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="409.528" y="645.034">2021-06-30</tspan></text>
-<text id="_totalAmount_" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="43" letter-spacing="0em"><tspan x="408.361" y="730.887">$ 60,665</tspan></text>
+<text id="Deliver to" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="184" y="502.713">Deliver to</tspan></text>
+<text id="Expired at" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="184" y="644.983">Expired at</tspan></text>
+<text id="Total amount" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="184" y="731.669">Total amount</tspan></text>
+<text id="Remark" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="154" y="2253.75">Remark</tspan></text>
+<text id="_caseName_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="408.361" y="430.629">Case 1234</tspan></text>
+<text id="_date_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="31" letter-spacing="0em"><tspan x="1597.75" y="410.906">2021-06-01</tspan></text>
+<text id="_number_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="31" letter-spacing="0em"><tspan x="1597.75" y="464.867">EST-20210601-001</tspan></text>
+<text id="_deliverTo_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="408.361" y="502.713">California headquotes</tspan></text>
+<text id="_deliveredBy_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="408.361" y="573.816">2021-12-31</tspan></text>
+<text id="_expiredAt_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="409.528" y="645.034">2021-06-30</tspan></text>
+<text id="_totalAmount_" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="43" letter-spacing="0em"><tspan x="408.361" y="730.887">$ 60,665</tspan></text>
 <path id="ç·š 9" d="M1451.25 428.106H1965.25" stroke="black"></path>
 <path id="ç·š 10" d="M1451.25 482.067H1965.25" stroke="black"></path>
-<text id="No." fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="23" letter-spacing="0em"><tspan x="1504" y="462.495">No.</tspan></text>
+<text id="No." fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="23" letter-spacing="0em"><tspan x="1504" y="462.495">No.</tspan></text>
 <g id="é•·æ–¹å½¢ 9">
 <path id="Vector_28" d="M1096 846H878V896H1096V846Z" fill="white"></path>
 <path id="Vector_29" d="M1095.5 846.5H878.5V895.5H1095.5V846.5Z" stroke="black"></path>
@@ -98,10 +98,10 @@
 <path id="Vector_36" d="M1530 846H1373V896H1530V846Z" fill="white"></path>
 <path id="Vector_37" d="M1529.5 846.5H1373.5V895.5H1529.5V846.5Z" stroke="black"></path>
 </g>
-<text id="Item name" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="460" y="879.754">Item name</tspan></text>
-<text id="Vendor name" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="893" y="879.754">Vendor name</tspan></text>
-<text id="Model code" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="1154" y="879.754">Model code</tspan></text>
-<text id="Quantity" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="1392" y="878.754">Quantity</tspan></text>
+<text id="Item name" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="460" y="879.754">Item name</tspan></text>
+<text id="Vendor name" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="893" y="879.754">Vendor name</tspan></text>
+<text id="Model code" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="1154" y="879.754">Model code</tspan></text>
+<text id="Quantity" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="1392" y="878.754">Quantity</tspan></text>
 <g id="é•·æ–¹å½¢ 21">
 <path id="Vector_38" d="M1733 846H1529V896H1733V846Z" fill="white"></path>
 <path id="Vector_39" d="M1732.5 846.5H1529.5V895.5H1732.5V846.5Z" stroke="black"></path>
@@ -110,13 +110,13 @@
 <path id="Vector_40" d="M1966 846H1732V896H1966V846Z" fill="white"></path>
 <path id="Vector_41" d="M1965.5 846.5H1732.5V895.5H1965.5V846.5Z" stroke="black"></path>
 </g>
-<text id="Unit price" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="1560" y="878.754">Unit price</tspan></text>
-<text id="Total" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="1814" y="879.754">Total</tspan></text>
+<text id="Unit price" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="1560" y="878.754">Unit price</tspan></text>
+<text id="Total" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="1814" y="879.754">Total</tspan></text>
 <g id="é•·æ–¹å½¢ 10_2">
 <path id="Vector_42" d="M190 895H135V945H190V895Z" fill="white"></path>
 <path id="Vector_43" d="M189.5 895.5H135.5V944.5H189.5V895.5Z" stroke="black"></path>
 </g>
-<text id="1" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="153" y="928.754">1</tspan></text>
+<text id="1" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="153" y="928.754">1</tspan></text>
 <g id="é•·æ–¹å½¢ 9_2">
 <path id="Vector_44" d="M1096 895H878V945H1096V895Z" fill="white"></path>
 <path id="Vector_45" d="M1095.5 895.5H878.5V944.5H1095.5V895.5Z" stroke="black"></path>
@@ -133,9 +133,9 @@
 <path id="Vector_50" d="M1530 895H1373V945H1530V895Z" fill="white"></path>
 <path id="Vector_51" d="M1529.5 895.5H1373.5V944.5H1529.5V895.5Z" stroke="black"></path>
 </g>
-<text id="_itemName_0_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="205" y="928.754">Sample item</tspan></text>
-<text id="_vendorName_0_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="928.754" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
-<text id="_modelCode_0_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="1105" y="928.754">SAMPLE-ITEM-0</tspan></text>
+<text id="_itemName_0_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="205" y="928.754">Sample item</tspan></text>
+<text id="_vendorName_0_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="928.754" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+<text id="_modelCode_0_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="1105" y="928.754">SAMPLE-ITEM-0</tspan></text>
 <g id="é•·æ–¹å½¢ 21_2">
 <path id="Vector_52" d="M1733 895H1529V945H1733V895Z" fill="white"></path>
 <path id="Vector_53" d="M1732.5 895.5H1529.5V944.5H1732.5V895.5Z" stroke="black"></path>
@@ -144,14 +144,14 @@
 <path id="Vector_54" d="M1966 895H1732V945H1966V895Z" fill="white"></path>
 <path id="Vector_55" d="M1965.5 895.5H1732.5V944.5H1965.5V895.5Z" stroke="black"></path>
 </g>
-<text id="_unitPrice_0_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="927.754">0</tspan></text>
-<text id="_total_0_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="927.754">0</tspan></text>
-<text id="_quantity_0_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="928.754">0</tspan></text>
+<text id="_unitPrice_0_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="927.754">0</tspan></text>
+<text id="_total_0_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="927.754">0</tspan></text>
+<text id="_quantity_0_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="928.754">0</tspan></text>
 <g id="é•·æ–¹å½¢ 10_3">
 <path id="Vector_56" d="M190 944H135V994H190V944Z" fill="white"></path>
 <path id="Vector_57" d="M189.5 944.5H135.5V993.5H189.5V944.5Z" stroke="black"></path>
 </g>
-<text id="2" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="153" y="977.754">2</tspan></text>
+<text id="2" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="153" y="977.754">2</tspan></text>
 <g id="é•·æ–¹å½¢ 9_3">
 <path id="Vector_58" d="M1096 944H878V994H1096V944Z" fill="white"></path>
 <path id="Vector_59" d="M1095.5 944.5H878.5V993.5H1095.5V944.5Z" stroke="black"></path>
@@ -168,9 +168,9 @@
 <path id="Vector_64" d="M1530 944H1373V994H1530V944Z" fill="white"></path>
 <path id="Vector_65" d="M1529.5 944.5H1373.5V993.5H1529.5V944.5Z" stroke="black"></path>
 </g>
-<text id="_itemName_1_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="205" y="977.754">Sample item</tspan></text>
-<text id="_vendorName_1_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="977.754" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
-<text id="_modelCode_1_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="1105" y="977.754">SAMPLE-ITEM-1</tspan></text>
+<text id="_itemName_1_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="205" y="977.754">Sample item</tspan></text>
+<text id="_vendorName_1_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="977.754" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+<text id="_modelCode_1_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="1105" y="977.754">SAMPLE-ITEM-1</tspan></text>
 <g id="é•·æ–¹å½¢ 21_3">
 <path id="Vector_66" d="M1733 944H1529V994H1733V944Z" fill="white"></path>
 <path id="Vector_67" d="M1732.5 944.5H1529.5V993.5H1732.5V944.5Z" stroke="black"></path>
@@ -179,14 +179,14 @@
 <path id="Vector_68" d="M1966 944H1732V994H1966V944Z" fill="white"></path>
 <path id="Vector_69" d="M1965.5 944.5H1732.5V993.5H1965.5V944.5Z" stroke="black"></path>
 </g>
-<text id="_unitPrice_1_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="976.754">10</tspan></text>
-<text id="_total_1_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="976.754">10</tspan></text>
-<text id="_quantity_1_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="977.754">1</tspan></text>
+<text id="_unitPrice_1_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="976.754">10</tspan></text>
+<text id="_total_1_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="976.754">10</tspan></text>
+<text id="_quantity_1_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="977.754">1</tspan></text>
 <g id="é•·æ–¹å½¢ 10_4">
 <path id="Vector_70" d="M190 993H135V1043H190V993Z" fill="white"></path>
 <path id="Vector_71" d="M189.5 993.5H135.5V1042.5H189.5V993.5Z" stroke="black"></path>
 </g>
-<text id="3" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="153" y="1026.75">3</tspan></text>
+<text id="3" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="153" y="1026.75">3</tspan></text>
 <g id="é•·æ–¹å½¢ 9_4">
 <path id="Vector_72" d="M1096 993H878V1043H1096V993Z" fill="white"></path>
 <path id="Vector_73" d="M1095.5 993.5H878.5V1042.5H1095.5V993.5Z" stroke="black"></path>
@@ -203,9 +203,9 @@
 <path id="Vector_78" d="M1530 993H1373V1043H1530V993Z" fill="white"></path>
 <path id="Vector_79" d="M1529.5 993.5H1373.5V1042.5H1529.5V993.5Z" stroke="black"></path>
 </g>
-<text id="_itemName_2_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="205" y="1026.75">Sample item</tspan></text>
-<text id="_vendorName_2_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1026.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
-<text id="_modelCode_2_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="1105" y="1026.75">SAMPLE-ITEM-2</tspan></text>
+<text id="_itemName_2_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="205" y="1026.75">Sample item</tspan></text>
+<text id="_vendorName_2_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1026.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+<text id="_modelCode_2_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="1105" y="1026.75">SAMPLE-ITEM-2</tspan></text>
 <g id="é•·æ–¹å½¢ 21_4">
 <path id="Vector_80" d="M1733 993H1529V1043H1733V993Z" fill="white"></path>
 <path id="Vector_81" d="M1732.5 993.5H1529.5V1042.5H1732.5V993.5Z" stroke="black"></path>
@@ -214,14 +214,14 @@
 <path id="Vector_82" d="M1966 993H1732V1043H1966V993Z" fill="white"></path>
 <path id="Vector_83" d="M1965.5 993.5H1732.5V1042.5H1965.5V993.5Z" stroke="black"></path>
 </g>
-<text id="_unitPrice_2_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1025.75">20</tspan></text>
-<text id="_total_2_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1025.75">40</tspan></text>
-<text id="_quantity_2_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1026.75">2</tspan></text>
+<text id="_unitPrice_2_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1025.75">20</tspan></text>
+<text id="_total_2_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1025.75">40</tspan></text>
+<text id="_quantity_2_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1026.75">2</tspan></text>
 <g id="é•·æ–¹å½¢ 10_5">
 <path id="Vector_84" d="M190 1042H135V1092H190V1042Z" fill="white"></path>
 <path id="Vector_85" d="M189.5 1042.5H135.5V1091.5H189.5V1042.5Z" stroke="black"></path>
 </g>
-<text id="4" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="153" y="1075.75">4</tspan></text>
+<text id="4" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="153" y="1075.75">4</tspan></text>
 <g id="é•·æ–¹å½¢ 9_5">
 <path id="Vector_86" d="M1096 1042H878V1092H1096V1042Z" fill="white"></path>
 <path id="Vector_87" d="M1095.5 1042.5H878.5V1091.5H1095.5V1042.5Z" stroke="black"></path>
@@ -238,9 +238,9 @@
 <path id="Vector_92" d="M1530 1042H1373V1092H1530V1042Z" fill="white"></path>
 <path id="Vector_93" d="M1529.5 1042.5H1373.5V1091.5H1529.5V1042.5Z" stroke="black"></path>
 </g>
-<text id="_itemName_3_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="205" y="1075.75">Sample item</tspan></text>
-<text id="_vendorName_3_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1075.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
-<text id="_modelCode_3_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="1105" y="1075.75">SAMPLE-ITEM-3</tspan></text>
+<text id="_itemName_3_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="205" y="1075.75">Sample item</tspan></text>
+<text id="_vendorName_3_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1075.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+<text id="_modelCode_3_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="1105" y="1075.75">SAMPLE-ITEM-3</tspan></text>
 <g id="é•·æ–¹å½¢ 21_5">
 <path id="Vector_94" d="M1733 1042H1529V1092H1733V1042Z" fill="white"></path>
 <path id="Vector_95" d="M1732.5 1042.5H1529.5V1091.5H1732.5V1042.5Z" stroke="black"></path>
@@ -249,14 +249,14 @@
 <path id="Vector_96" d="M1966 1042H1732V1092H1966V1042Z" fill="white"></path>
 <path id="Vector_97" d="M1965.5 1042.5H1732.5V1091.5H1965.5V1042.5Z" stroke="black"></path>
 </g>
-<text id="_unitPrice_3_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1074.75">30</tspan></text>
-<text id="_total_3_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1074.75">90</tspan></text>
-<text id="_quantity_3_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1075.75">3</tspan></text>
+<text id="_unitPrice_3_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1074.75">30</tspan></text>
+<text id="_total_3_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1074.75">90</tspan></text>
+<text id="_quantity_3_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1075.75">3</tspan></text>
 <g id="é•·æ–¹å½¢ 10_6">
 <path id="Vector_98" d="M190 1091H135V1141H190V1091Z" fill="white"></path>
 <path id="Vector_99" d="M189.5 1091.5H135.5V1140.5H189.5V1091.5Z" stroke="black"></path>
 </g>
-<text id="5" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="153" y="1124.75">5</tspan></text>
+<text id="5" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="153" y="1124.75">5</tspan></text>
 <g id="é•·æ–¹å½¢ 9_6">
 <path id="Vector_100" d="M1096 1091H878V1141H1096V1091Z" fill="white"></path>
 <path id="Vector_101" d="M1095.5 1091.5H878.5V1140.5H1095.5V1091.5Z" stroke="black"></path>
@@ -273,9 +273,9 @@
 <path id="Vector_106" d="M1530 1091H1373V1141H1530V1091Z" fill="white"></path>
 <path id="Vector_107" d="M1529.5 1091.5H1373.5V1140.5H1529.5V1091.5Z" stroke="black"></path>
 </g>
-<text id="_itemName_4_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="205" y="1124.75">Sample item</tspan></text>
-<text id="_vendorName_4_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1124.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
-<text id="_modelCode_4_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="1105" y="1124.75">SAMPLE-ITEM-4</tspan></text>
+<text id="_itemName_4_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="205" y="1124.75">Sample item</tspan></text>
+<text id="_vendorName_4_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1124.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+<text id="_modelCode_4_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="1105" y="1124.75">SAMPLE-ITEM-4</tspan></text>
 <g id="é•·æ–¹å½¢ 21_6">
 <path id="Vector_108" d="M1733 1091H1529V1141H1733V1091Z" fill="white"></path>
 <path id="Vector_109" d="M1732.5 1091.5H1529.5V1140.5H1732.5V1091.5Z" stroke="black"></path>
@@ -284,14 +284,14 @@
 <path id="Vector_110" d="M1966 1091H1732V1141H1966V1091Z" fill="white"></path>
 <path id="Vector_111" d="M1965.5 1091.5H1732.5V1140.5H1965.5V1091.5Z" stroke="black"></path>
 </g>
-<text id="_unitPrice_4_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1123.75">40</tspan></text>
-<text id="_total_4_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1123.75">160</tspan></text>
-<text id="_quantity_4_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1124.75">4</tspan></text>
+<text id="_unitPrice_4_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1123.75">40</tspan></text>
+<text id="_total_4_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1123.75">160</tspan></text>
+<text id="_quantity_4_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1124.75">4</tspan></text>
 <g id="é•·æ–¹å½¢ 10_7">
 <path id="Vector_112" d="M190 1140H135V1190H190V1140Z" fill="white"></path>
 <path id="Vector_113" d="M189.5 1140.5H135.5V1189.5H189.5V1140.5Z" stroke="black"></path>
 </g>
-<text id="6" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="153" y="1173.75">6</tspan></text>
+<text id="6" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="153" y="1173.75">6</tspan></text>
 <g id="é•·æ–¹å½¢ 9_7">
 <path id="Vector_114" d="M1096 1140H878V1190H1096V1140Z" fill="white"></path>
 <path id="Vector_115" d="M1095.5 1140.5H878.5V1189.5H1095.5V1140.5Z" stroke="black"></path>
@@ -308,9 +308,9 @@
 <path id="Vector_120" d="M1530 1140H1373V1190H1530V1140Z" fill="white"></path>
 <path id="Vector_121" d="M1529.5 1140.5H1373.5V1189.5H1529.5V1140.5Z" stroke="black"></path>
 </g>
-<text id="_itemName_5_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="205" y="1173.75">Sample item</tspan></text>
-<text id="_vendorName_5_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1173.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
-<text id="_modelCode_5_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="1105" y="1173.75">SAMPLE-ITEM-5</tspan></text>
+<text id="_itemName_5_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="205" y="1173.75">Sample item</tspan></text>
+<text id="_vendorName_5_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1173.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+<text id="_modelCode_5_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="1105" y="1173.75">SAMPLE-ITEM-5</tspan></text>
 <g id="é•·æ–¹å½¢ 21_7">
 <path id="Vector_122" d="M1733 1140H1529V1190H1733V1140Z" fill="white"></path>
 <path id="Vector_123" d="M1732.5 1140.5H1529.5V1189.5H1732.5V1140.5Z" stroke="black"></path>
@@ -319,14 +319,14 @@
 <path id="Vector_124" d="M1966 1140H1732V1190H1966V1140Z" fill="white"></path>
 <path id="Vector_125" d="M1965.5 1140.5H1732.5V1189.5H1965.5V1140.5Z" stroke="black"></path>
 </g>
-<text id="_unitPrice_5_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1172.75">50</tspan></text>
-<text id="_total_5_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1172.75">250</tspan></text>
-<text id="_quantity_5_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1173.75">5</tspan></text>
+<text id="_unitPrice_5_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1172.75">50</tspan></text>
+<text id="_total_5_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1172.75">250</tspan></text>
+<text id="_quantity_5_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1173.75">5</tspan></text>
 <g id="é•·æ–¹å½¢ 10_8">
 <path id="Vector_126" d="M190 1189H135V1239H190V1189Z" fill="white"></path>
 <path id="Vector_127" d="M189.5 1189.5H135.5V1238.5H189.5V1189.5Z" stroke="black"></path>
 </g>
-<text id="7" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="153" y="1222.75">7</tspan></text>
+<text id="7" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="153" y="1222.75">7</tspan></text>
 <g id="é•·æ–¹å½¢ 9_8">
 <path id="Vector_128" d="M1096 1189H878V1239H1096V1189Z" fill="white"></path>
 <path id="Vector_129" d="M1095.5 1189.5H878.5V1238.5H1095.5V1189.5Z" stroke="black"></path>
@@ -343,9 +343,9 @@
 <path id="Vector_134" d="M1530 1189H1373V1239H1530V1189Z" fill="white"></path>
 <path id="Vector_135" d="M1529.5 1189.5H1373.5V1238.5H1529.5V1189.5Z" stroke="black"></path>
 </g>
-<text id="_itemName_6_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="205" y="1222.75">Sample item</tspan></text>
-<text id="_vendorName_6_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1222.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
-<text id="_modelCode_6_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="1105" y="1222.75">SAMPLE-ITEM-6</tspan></text>
+<text id="_itemName_6_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="205" y="1222.75">Sample item</tspan></text>
+<text id="_vendorName_6_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1222.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+<text id="_modelCode_6_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="1105" y="1222.75">SAMPLE-ITEM-6</tspan></text>
 <g id="é•·æ–¹å½¢ 21_8">
 <path id="Vector_136" d="M1733 1189H1529V1239H1733V1189Z" fill="white"></path>
 <path id="Vector_137" d="M1732.5 1189.5H1529.5V1238.5H1732.5V1189.5Z" stroke="black"></path>
@@ -354,14 +354,14 @@
 <path id="Vector_138" d="M1966 1189H1732V1239H1966V1189Z" fill="white"></path>
 <path id="Vector_139" d="M1965.5 1189.5H1732.5V1238.5H1965.5V1189.5Z" stroke="black"></path>
 </g>
-<text id="_unitPrice_6_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1221.75">60</tspan></text>
-<text id="_total_6_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1221.75">360</tspan></text>
-<text id="_quantity_6_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1222.75">6</tspan></text>
+<text id="_unitPrice_6_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1221.75">60</tspan></text>
+<text id="_total_6_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1221.75">360</tspan></text>
+<text id="_quantity_6_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1222.75">6</tspan></text>
 <g id="é•·æ–¹å½¢ 10_9">
 <path id="Vector_140" d="M190 1238H135V1288H190V1238Z" fill="white"></path>
 <path id="Vector_141" d="M189.5 1238.5H135.5V1287.5H189.5V1238.5Z" stroke="black"></path>
 </g>
-<text id="8" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="153" y="1271.75">8</tspan></text>
+<text id="8" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="153" y="1271.75">8</tspan></text>
 <g id="é•·æ–¹å½¢ 9_9">
 <path id="Vector_142" d="M1096 1238H878V1288H1096V1238Z" fill="white"></path>
 <path id="Vector_143" d="M1095.5 1238.5H878.5V1287.5H1095.5V1238.5Z" stroke="black"></path>
@@ -378,9 +378,9 @@
 <path id="Vector_148" d="M1530 1238H1373V1288H1530V1238Z" fill="white"></path>
 <path id="Vector_149" d="M1529.5 1238.5H1373.5V1287.5H1529.5V1238.5Z" stroke="black"></path>
 </g>
-<text id="_itemName_7_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="205" y="1271.75">Sample item</tspan></text>
-<text id="_vendorName_7_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1271.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
-<text id="_modelCode_7_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="1105" y="1271.75">SAMPLE-ITEM-7</tspan></text>
+<text id="_itemName_7_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="205" y="1271.75">Sample item</tspan></text>
+<text id="_vendorName_7_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1271.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+<text id="_modelCode_7_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="1105" y="1271.75">SAMPLE-ITEM-7</tspan></text>
 <g id="é•·æ–¹å½¢ 21_9">
 <path id="Vector_150" d="M1733 1238H1529V1288H1733V1238Z" fill="white"></path>
 <path id="Vector_151" d="M1732.5 1238.5H1529.5V1287.5H1732.5V1238.5Z" stroke="black"></path>
@@ -389,14 +389,14 @@
 <path id="Vector_152" d="M1966 1238H1732V1288H1966V1238Z" fill="white"></path>
 <path id="Vector_153" d="M1965.5 1238.5H1732.5V1287.5H1965.5V1238.5Z" stroke="black"></path>
 </g>
-<text id="_unitPrice_7_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1270.75">70</tspan></text>
-<text id="_total_7_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1270.75">490</tspan></text>
-<text id="_quantity_7_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1271.75">7</tspan></text>
+<text id="_unitPrice_7_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1270.75">70</tspan></text>
+<text id="_total_7_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1270.75">490</tspan></text>
+<text id="_quantity_7_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1271.75">7</tspan></text>
 <g id="é•·æ–¹å½¢ 10_10">
 <path id="Vector_154" d="M190 1287H135V1337H190V1287Z" fill="white"></path>
 <path id="Vector_155" d="M189.5 1287.5H135.5V1336.5H189.5V1287.5Z" stroke="black"></path>
 </g>
-<text id="9" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="153" y="1320.75">9</tspan></text>
+<text id="9" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="153" y="1320.75">9</tspan></text>
 <g id="é•·æ–¹å½¢ 9_10">
 <path id="Vector_156" d="M1096 1287H878V1337H1096V1287Z" fill="white"></path>
 <path id="Vector_157" d="M1095.5 1287.5H878.5V1336.5H1095.5V1287.5Z" stroke="black"></path>
@@ -413,9 +413,9 @@
 <path id="Vector_162" d="M1530 1287H1373V1337H1530V1287Z" fill="white"></path>
 <path id="Vector_163" d="M1529.5 1287.5H1373.5V1336.5H1529.5V1287.5Z" stroke="black"></path>
 </g>
-<text id="_itemName_8_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="205" y="1320.75">Sample item</tspan></text>
-<text id="_vendorName_8_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1320.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
-<text id="_modelCode_8_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="1105" y="1320.75">SAMPLE-ITEM-8</tspan></text>
+<text id="_itemName_8_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="205" y="1320.75">Sample item</tspan></text>
+<text id="_vendorName_8_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1320.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+<text id="_modelCode_8_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="1105" y="1320.75">SAMPLE-ITEM-8</tspan></text>
 <g id="é•·æ–¹å½¢ 21_10">
 <path id="Vector_164" d="M1733 1287H1529V1337H1733V1287Z" fill="white"></path>
 <path id="Vector_165" d="M1732.5 1287.5H1529.5V1336.5H1732.5V1287.5Z" stroke="black"></path>
@@ -424,14 +424,14 @@
 <path id="Vector_166" d="M1966 1287H1732V1337H1966V1287Z" fill="white"></path>
 <path id="Vector_167" d="M1965.5 1287.5H1732.5V1336.5H1965.5V1287.5Z" stroke="black"></path>
 </g>
-<text id="_unitPrice_8_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1319.75">80</tspan></text>
-<text id="_total_8_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1319.75">640</tspan></text>
-<text id="_quantity_8_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1320.75">8</tspan></text>
+<text id="_unitPrice_8_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1319.75">80</tspan></text>
+<text id="_total_8_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1319.75">640</tspan></text>
+<text id="_quantity_8_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1320.75">8</tspan></text>
 <g id="é•·æ–¹å½¢ 10_11">
 <path id="Vector_168" d="M190 1336H135V1386H190V1336Z" fill="white"></path>
 <path id="Vector_169" d="M189.5 1336.5H135.5V1385.5H189.5V1336.5Z" stroke="black"></path>
 </g>
-<text id="10" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="144" y="1369.75">10</tspan></text>
+<text id="10" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="144" y="1369.75">10</tspan></text>
 <g id="é•·æ–¹å½¢ 9_11">
 <path id="Vector_170" d="M1096 1336H878V1386H1096V1336Z" fill="white"></path>
 <path id="Vector_171" d="M1095.5 1336.5H878.5V1385.5H1095.5V1336.5Z" stroke="black"></path>
@@ -448,9 +448,9 @@
 <path id="Vector_176" d="M1530 1336H1373V1386H1530V1336Z" fill="white"></path>
 <path id="Vector_177" d="M1529.5 1336.5H1373.5V1385.5H1529.5V1336.5Z" stroke="black"></path>
 </g>
-<text id="_itemName_9_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="205" y="1369.75">Sample item</tspan></text>
-<text id="_vendorName_9_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1369.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
-<text id="_modelCode_9_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="1105" y="1369.75">SAMPLE-ITEM-9</tspan></text>
+<text id="_itemName_9_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="205" y="1369.75">Sample item</tspan></text>
+<text id="_vendorName_9_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1369.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+<text id="_modelCode_9_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="1105" y="1369.75">SAMPLE-ITEM-9</tspan></text>
 <g id="é•·æ–¹å½¢ 21_11">
 <path id="Vector_178" d="M1733 1336H1529V1386H1733V1336Z" fill="white"></path>
 <path id="Vector_179" d="M1732.5 1336.5H1529.5V1385.5H1732.5V1336.5Z" stroke="black"></path>
@@ -459,14 +459,14 @@
 <path id="Vector_180" d="M1966 1336H1732V1386H1966V1336Z" fill="white"></path>
 <path id="Vector_181" d="M1965.5 1336.5H1732.5V1385.5H1965.5V1336.5Z" stroke="black"></path>
 </g>
-<text id="_unitPrice_9_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1368.75">90</tspan></text>
-<text id="_total_9_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1368.75">810</tspan></text>
-<text id="_quantity_9_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1369.75">9</tspan></text>
+<text id="_unitPrice_9_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1368.75">90</tspan></text>
+<text id="_total_9_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1368.75">810</tspan></text>
+<text id="_quantity_9_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1369.75">9</tspan></text>
 <g id="é•·æ–¹å½¢ 10_12">
 <path id="Vector_182" d="M190 1385H135V1435H190V1385Z" fill="white"></path>
 <path id="Vector_183" d="M189.5 1385.5H135.5V1434.5H189.5V1385.5Z" stroke="black"></path>
 </g>
-<text id="11" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="144" y="1418.75">11</tspan></text>
+<text id="11" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="144" y="1418.75">11</tspan></text>
 <g id="é•·æ–¹å½¢ 9_12">
 <path id="Vector_184" d="M1096 1385H878V1435H1096V1385Z" fill="white"></path>
 <path id="Vector_185" d="M1095.5 1385.5H878.5V1434.5H1095.5V1385.5Z" stroke="black"></path>
@@ -483,9 +483,9 @@
 <path id="Vector_190" d="M1530 1385H1373V1435H1530V1385Z" fill="white"></path>
 <path id="Vector_191" d="M1529.5 1385.5H1373.5V1434.5H1529.5V1385.5Z" stroke="black"></path>
 </g>
-<text id="_itemName_10_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="205" y="1418.75">Sample item</tspan></text>
-<text id="_vendorName_10_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1418.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
-<text id="_modelCode_10_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="1105" y="1418.75">SAMPLE-ITEM-10</tspan></text>
+<text id="_itemName_10_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="205" y="1418.75">Sample item</tspan></text>
+<text id="_vendorName_10_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1418.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+<text id="_modelCode_10_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="1105" y="1418.75">SAMPLE-ITEM-10</tspan></text>
 <g id="é•·æ–¹å½¢ 21_12">
 <path id="Vector_192" d="M1733 1385H1529V1435H1733V1385Z" fill="white"></path>
 <path id="Vector_193" d="M1732.5 1385.5H1529.5V1434.5H1732.5V1385.5Z" stroke="black"></path>
@@ -494,14 +494,14 @@
 <path id="Vector_194" d="M1966 1385H1732V1435H1966V1385Z" fill="white"></path>
 <path id="Vector_195" d="M1965.5 1385.5H1732.5V1434.5H1965.5V1385.5Z" stroke="black"></path>
 </g>
-<text id="_unitPrice_10_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1417.75">100</tspan></text>
-<text id="_total_10_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1417.75">1,000</tspan></text>
-<text id="_quantity_10_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1418.75">10</tspan></text>
+<text id="_unitPrice_10_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1417.75">100</tspan></text>
+<text id="_total_10_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1417.75">1,000</tspan></text>
+<text id="_quantity_10_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1418.75">10</tspan></text>
 <g id="é•·æ–¹å½¢ 10_13">
 <path id="Vector_196" d="M190 1434H135V1484H190V1434Z" fill="white"></path>
 <path id="Vector_197" d="M189.5 1434.5H135.5V1483.5H189.5V1434.5Z" stroke="black"></path>
 </g>
-<text id="12" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="144" y="1467.75">12</tspan></text>
+<text id="12" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="144" y="1467.75">12</tspan></text>
 <g id="é•·æ–¹å½¢ 9_13">
 <path id="Vector_198" d="M1096 1434H878V1484H1096V1434Z" fill="white"></path>
 <path id="Vector_199" d="M1095.5 1434.5H878.5V1483.5H1095.5V1434.5Z" stroke="black"></path>
@@ -518,9 +518,9 @@
 <path id="Vector_204" d="M1530 1434H1373V1484H1530V1434Z" fill="white"></path>
 <path id="Vector_205" d="M1529.5 1434.5H1373.5V1483.5H1529.5V1434.5Z" stroke="black"></path>
 </g>
-<text id="_itemName_11_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="205" y="1467.75">Sample item</tspan></text>
-<text id="_vendorName_11_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1467.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
-<text id="_modelCode_11_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="1105" y="1467.75">SAMPLE-ITEM-11</tspan></text>
+<text id="_itemName_11_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="205" y="1467.75">Sample item</tspan></text>
+<text id="_vendorName_11_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1467.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+<text id="_modelCode_11_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="1105" y="1467.75">SAMPLE-ITEM-11</tspan></text>
 <g id="é•·æ–¹å½¢ 21_13">
 <path id="Vector_206" d="M1733 1434H1529V1484H1733V1434Z" fill="white"></path>
 <path id="Vector_207" d="M1732.5 1434.5H1529.5V1483.5H1732.5V1434.5Z" stroke="black"></path>
@@ -529,14 +529,14 @@
 <path id="Vector_208" d="M1966 1434H1732V1484H1966V1434Z" fill="white"></path>
 <path id="Vector_209" d="M1965.5 1434.5H1732.5V1483.5H1965.5V1434.5Z" stroke="black"></path>
 </g>
-<text id="_unitPrice_11_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1466.75">110</tspan></text>
-<text id="_total_11_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1466.75">1,210</tspan></text>
-<text id="_quantity_11_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1467.75">11</tspan></text>
+<text id="_unitPrice_11_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1466.75">110</tspan></text>
+<text id="_total_11_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1466.75">1,210</tspan></text>
+<text id="_quantity_11_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1467.75">11</tspan></text>
 <g id="é•·æ–¹å½¢ 10_14">
 <path id="Vector_210" d="M190 1483H135V1533H190V1483Z" fill="white"></path>
 <path id="Vector_211" d="M189.5 1483.5H135.5V1532.5H189.5V1483.5Z" stroke="black"></path>
 </g>
-<text id="13" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="144" y="1516.75">13</tspan></text>
+<text id="13" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="144" y="1516.75">13</tspan></text>
 <g id="é•·æ–¹å½¢ 9_14">
 <path id="Vector_212" d="M1096 1483H878V1533H1096V1483Z" fill="white"></path>
 <path id="Vector_213" d="M1095.5 1483.5H878.5V1532.5H1095.5V1483.5Z" stroke="black"></path>
@@ -553,9 +553,9 @@
 <path id="Vector_218" d="M1530 1483H1373V1533H1530V1483Z" fill="white"></path>
 <path id="Vector_219" d="M1529.5 1483.5H1373.5V1532.5H1529.5V1483.5Z" stroke="black"></path>
 </g>
-<text id="_itemName_12_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="205" y="1516.75">Sample item</tspan></text>
-<text id="_vendorName_12_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1516.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
-<text id="_modelCode_12_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="1105" y="1516.75">SAMPLE-ITEM-12</tspan></text>
+<text id="_itemName_12_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="205" y="1516.75">Sample item</tspan></text>
+<text id="_vendorName_12_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1516.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+<text id="_modelCode_12_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="1105" y="1516.75">SAMPLE-ITEM-12</tspan></text>
 <g id="é•·æ–¹å½¢ 21_14">
 <path id="Vector_220" d="M1733 1483H1529V1533H1733V1483Z" fill="white"></path>
 <path id="Vector_221" d="M1732.5 1483.5H1529.5V1532.5H1732.5V1483.5Z" stroke="black"></path>
@@ -564,14 +564,14 @@
 <path id="Vector_222" d="M1966 1483H1732V1533H1966V1483Z" fill="white"></path>
 <path id="Vector_223" d="M1965.5 1483.5H1732.5V1532.5H1965.5V1483.5Z" stroke="black"></path>
 </g>
-<text id="_unitPrice_12_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1515.75">120</tspan></text>
-<text id="_total_12_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1515.75">1,440</tspan></text>
-<text id="_quantity_12_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1516.75">12</tspan></text>
+<text id="_unitPrice_12_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1515.75">120</tspan></text>
+<text id="_total_12_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1515.75">1,440</tspan></text>
+<text id="_quantity_12_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1516.75">12</tspan></text>
 <g id="é•·æ–¹å½¢ 10_15">
 <path id="Vector_224" d="M190 1532H135V1582H190V1532Z" fill="white"></path>
 <path id="Vector_225" d="M189.5 1532.5H135.5V1581.5H189.5V1532.5Z" stroke="black"></path>
 </g>
-<text id="14" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="144" y="1565.75">14</tspan></text>
+<text id="14" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="144" y="1565.75">14</tspan></text>
 <g id="é•·æ–¹å½¢ 9_15">
 <path id="Vector_226" d="M1096 1532H878V1582H1096V1532Z" fill="white"></path>
 <path id="Vector_227" d="M1095.5 1532.5H878.5V1581.5H1095.5V1532.5Z" stroke="black"></path>
@@ -588,9 +588,9 @@
 <path id="Vector_232" d="M1530 1532H1373V1582H1530V1532Z" fill="white"></path>
 <path id="Vector_233" d="M1529.5 1532.5H1373.5V1581.5H1529.5V1532.5Z" stroke="black"></path>
 </g>
-<text id="_itemName_13_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="205" y="1565.75">Sample item</tspan></text>
-<text id="_vendorName_13_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1565.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
-<text id="_modelCode_13_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="1105" y="1565.75">SAMPLE-ITEM-13</tspan></text>
+<text id="_itemName_13_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="205" y="1565.75">Sample item</tspan></text>
+<text id="_vendorName_13_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1565.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+<text id="_modelCode_13_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="1105" y="1565.75">SAMPLE-ITEM-13</tspan></text>
 <g id="é•·æ–¹å½¢ 21_15">
 <path id="Vector_234" d="M1733 1532H1529V1582H1733V1532Z" fill="white"></path>
 <path id="Vector_235" d="M1732.5 1532.5H1529.5V1581.5H1732.5V1532.5Z" stroke="black"></path>
@@ -599,14 +599,14 @@
 <path id="Vector_236" d="M1966 1532H1732V1582H1966V1532Z" fill="white"></path>
 <path id="Vector_237" d="M1965.5 1532.5H1732.5V1581.5H1965.5V1532.5Z" stroke="black"></path>
 </g>
-<text id="_unitPrice_13_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1564.75">130</tspan></text>
-<text id="_total_13_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1564.75">1,690</tspan></text>
-<text id="_quantity_13_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1565.75">13</tspan></text>
+<text id="_unitPrice_13_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1564.75">130</tspan></text>
+<text id="_total_13_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1564.75">1,690</tspan></text>
+<text id="_quantity_13_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1565.75">13</tspan></text>
 <g id="é•·æ–¹å½¢ 10_16">
 <path id="Vector_238" d="M190 1581H135V1631H190V1581Z" fill="white"></path>
 <path id="Vector_239" d="M189.5 1581.5H135.5V1630.5H189.5V1581.5Z" stroke="black"></path>
 </g>
-<text id="15" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="144" y="1614.75">15</tspan></text>
+<text id="15" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="144" y="1614.75">15</tspan></text>
 <g id="é•·æ–¹å½¢ 9_16">
 <path id="Vector_240" d="M1096 1581H878V1631H1096V1581Z" fill="white"></path>
 <path id="Vector_241" d="M1095.5 1581.5H878.5V1630.5H1095.5V1581.5Z" stroke="black"></path>
@@ -623,9 +623,9 @@
 <path id="Vector_246" d="M1530 1581H1373V1631H1530V1581Z" fill="white"></path>
 <path id="Vector_247" d="M1529.5 1581.5H1373.5V1630.5H1529.5V1581.5Z" stroke="black"></path>
 </g>
-<text id="_itemName_14_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="205" y="1614.75">Sample item</tspan></text>
-<text id="_vendorName_14_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1614.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
-<text id="_modelCode_14_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="1105" y="1614.75">SAMPLE-ITEM-14</tspan></text>
+<text id="_itemName_14_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="205" y="1614.75">Sample item</tspan></text>
+<text id="_vendorName_14_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1614.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+<text id="_modelCode_14_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="1105" y="1614.75">SAMPLE-ITEM-14</tspan></text>
 <g id="é•·æ–¹å½¢ 21_16">
 <path id="Vector_248" d="M1733 1581H1529V1631H1733V1581Z" fill="white"></path>
 <path id="Vector_249" d="M1732.5 1581.5H1529.5V1630.5H1732.5V1581.5Z" stroke="black"></path>
@@ -634,14 +634,14 @@
 <path id="Vector_250" d="M1966 1581H1732V1631H1966V1581Z" fill="white"></path>
 <path id="Vector_251" d="M1965.5 1581.5H1732.5V1630.5H1965.5V1581.5Z" stroke="black"></path>
 </g>
-<text id="_unitPrice_14_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1613.75">140</tspan></text>
-<text id="_total_14_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1613.75">1,960</tspan></text>
-<text id="_quantity_14_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1614.75">14</tspan></text>
+<text id="_unitPrice_14_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1613.75">140</tspan></text>
+<text id="_total_14_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1613.75">1,960</tspan></text>
+<text id="_quantity_14_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1614.75">14</tspan></text>
 <g id="é•·æ–¹å½¢ 10_17">
 <path id="Vector_252" d="M190 1630H135V1680H190V1630Z" fill="white"></path>
 <path id="Vector_253" d="M189.5 1630.5H135.5V1679.5H189.5V1630.5Z" stroke="black"></path>
 </g>
-<text id="16" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="144" y="1663.75">16</tspan></text>
+<text id="16" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="144" y="1663.75">16</tspan></text>
 <g id="é•·æ–¹å½¢ 9_17">
 <path id="Vector_254" d="M1096 1630H878V1680H1096V1630Z" fill="white"></path>
 <path id="Vector_255" d="M1095.5 1630.5H878.5V1679.5H1095.5V1630.5Z" stroke="black"></path>
@@ -658,9 +658,9 @@
 <path id="Vector_260" d="M1530 1630H1373V1680H1530V1630Z" fill="white"></path>
 <path id="Vector_261" d="M1529.5 1630.5H1373.5V1679.5H1529.5V1630.5Z" stroke="black"></path>
 </g>
-<text id="_itemName_15_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="205" y="1663.75">Sample item</tspan></text>
-<text id="_vendorName_15_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1663.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
-<text id="_modelCode_15_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="1105" y="1663.75">SAMPLE-ITEM-15</tspan></text>
+<text id="_itemName_15_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="205" y="1663.75">Sample item</tspan></text>
+<text id="_vendorName_15_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1663.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+<text id="_modelCode_15_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="1105" y="1663.75">SAMPLE-ITEM-15</tspan></text>
 <g id="é•·æ–¹å½¢ 21_17">
 <path id="Vector_262" d="M1733 1630H1529V1680H1733V1630Z" fill="white"></path>
 <path id="Vector_263" d="M1732.5 1630.5H1529.5V1679.5H1732.5V1630.5Z" stroke="black"></path>
@@ -669,14 +669,14 @@
 <path id="Vector_264" d="M1966 1630H1732V1680H1966V1630Z" fill="white"></path>
 <path id="Vector_265" d="M1965.5 1630.5H1732.5V1679.5H1965.5V1630.5Z" stroke="black"></path>
 </g>
-<text id="_unitPrice_15_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1662.75">150</tspan></text>
-<text id="_total_15_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1662.75">2,250</tspan></text>
-<text id="_quantity_15_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1663.75">15</tspan></text>
+<text id="_unitPrice_15_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1662.75">150</tspan></text>
+<text id="_total_15_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1662.75">2,250</tspan></text>
+<text id="_quantity_15_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1663.75">15</tspan></text>
 <g id="é•·æ–¹å½¢ 10_18">
 <path id="Vector_266" d="M190 1679H135V1729H190V1679Z" fill="white"></path>
 <path id="Vector_267" d="M189.5 1679.5H135.5V1728.5H189.5V1679.5Z" stroke="black"></path>
 </g>
-<text id="17" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="144" y="1712.75">17</tspan></text>
+<text id="17" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="144" y="1712.75">17</tspan></text>
 <g id="é•·æ–¹å½¢ 9_18">
 <path id="Vector_268" d="M1096 1679H878V1729H1096V1679Z" fill="white"></path>
 <path id="Vector_269" d="M1095.5 1679.5H878.5V1728.5H1095.5V1679.5Z" stroke="black"></path>
@@ -693,9 +693,9 @@
 <path id="Vector_274" d="M1530 1679H1373V1729H1530V1679Z" fill="white"></path>
 <path id="Vector_275" d="M1529.5 1679.5H1373.5V1728.5H1529.5V1679.5Z" stroke="black"></path>
 </g>
-<text id="_itemName_16_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="205" y="1712.75">Sample item</tspan></text>
-<text id="_vendorName_16_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1712.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
-<text id="_modelCode_16_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="1105" y="1712.75">SAMPLE-ITEM-16</tspan></text>
+<text id="_itemName_16_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="205" y="1712.75">Sample item</tspan></text>
+<text id="_vendorName_16_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1712.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+<text id="_modelCode_16_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="1105" y="1712.75">SAMPLE-ITEM-16</tspan></text>
 <g id="é•·æ–¹å½¢ 21_18">
 <path id="Vector_276" d="M1733 1679H1529V1729H1733V1679Z" fill="white"></path>
 <path id="Vector_277" d="M1732.5 1679.5H1529.5V1728.5H1732.5V1679.5Z" stroke="black"></path>
@@ -704,14 +704,14 @@
 <path id="Vector_278" d="M1966 1679H1732V1729H1966V1679Z" fill="white"></path>
 <path id="Vector_279" d="M1965.5 1679.5H1732.5V1728.5H1965.5V1679.5Z" stroke="black"></path>
 </g>
-<text id="_unitPrice_16_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1711.75">160</tspan></text>
-<text id="_total_16_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1711.75">2,560</tspan></text>
-<text id="_quantity_16_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1712.75">16</tspan></text>
+<text id="_unitPrice_16_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1711.75">160</tspan></text>
+<text id="_total_16_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1711.75">2,560</tspan></text>
+<text id="_quantity_16_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1712.75">16</tspan></text>
 <g id="é•·æ–¹å½¢ 10_19">
 <path id="Vector_280" d="M190 1728H135V1778H190V1728Z" fill="white"></path>
 <path id="Vector_281" d="M189.5 1728.5H135.5V1777.5H189.5V1728.5Z" stroke="black"></path>
 </g>
-<text id="18" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="144" y="1761.75">18</tspan></text>
+<text id="18" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="144" y="1761.75">18</tspan></text>
 <g id="é•·æ–¹å½¢ 9_19">
 <path id="Vector_282" d="M1096 1728H878V1778H1096V1728Z" fill="white"></path>
 <path id="Vector_283" d="M1095.5 1728.5H878.5V1777.5H1095.5V1728.5Z" stroke="black"></path>
@@ -728,9 +728,9 @@
 <path id="Vector_288" d="M1530 1728H1373V1778H1530V1728Z" fill="white"></path>
 <path id="Vector_289" d="M1529.5 1728.5H1373.5V1777.5H1529.5V1728.5Z" stroke="black"></path>
 </g>
-<text id="_itemName_17_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="205" y="1761.75">Sample item</tspan></text>
-<text id="_vendorName_17_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1761.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
-<text id="_modelCode_17_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="1105" y="1761.75">SAMPLE-ITEM-17</tspan></text>
+<text id="_itemName_17_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="205" y="1761.75">Sample item</tspan></text>
+<text id="_vendorName_17_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1761.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+<text id="_modelCode_17_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="1105" y="1761.75">SAMPLE-ITEM-17</tspan></text>
 <g id="é•·æ–¹å½¢ 21_19">
 <path id="Vector_290" d="M1733 1728H1529V1778H1733V1728Z" fill="white"></path>
 <path id="Vector_291" d="M1732.5 1728.5H1529.5V1777.5H1732.5V1728.5Z" stroke="black"></path>
@@ -739,14 +739,14 @@
 <path id="Vector_292" d="M1966 1728H1732V1778H1966V1728Z" fill="white"></path>
 <path id="Vector_293" d="M1965.5 1728.5H1732.5V1777.5H1965.5V1728.5Z" stroke="black"></path>
 </g>
-<text id="_unitPrice_17_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1760.75">170</tspan></text>
-<text id="_total_17_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1760.75">2,890</tspan></text>
-<text id="_quantity_17_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1761.75">17</tspan></text>
+<text id="_unitPrice_17_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1760.75">170</tspan></text>
+<text id="_total_17_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1760.75">2,890</tspan></text>
+<text id="_quantity_17_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1761.75">17</tspan></text>
 <g id="é•·æ–¹å½¢ 10_20">
 <path id="Vector_294" d="M190 1777H135V1827H190V1777Z" fill="white"></path>
 <path id="Vector_295" d="M189.5 1777.5H135.5V1826.5H189.5V1777.5Z" stroke="black"></path>
 </g>
-<text id="19" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="144" y="1810.75">19</tspan></text>
+<text id="19" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="144" y="1810.75">19</tspan></text>
 <g id="é•·æ–¹å½¢ 9_20">
 <path id="Vector_296" d="M1096 1777H878V1827H1096V1777Z" fill="white"></path>
 <path id="Vector_297" d="M1095.5 1777.5H878.5V1826.5H1095.5V1777.5Z" stroke="black"></path>
@@ -763,9 +763,9 @@
 <path id="Vector_302" d="M1530 1777H1373V1827H1530V1777Z" fill="white"></path>
 <path id="Vector_303" d="M1529.5 1777.5H1373.5V1826.5H1529.5V1777.5Z" stroke="black"></path>
 </g>
-<text id="_itemName_18_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="205" y="1810.75">Sample item</tspan></text>
-<text id="_vendorName_18_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1810.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
-<text id="_modelCode_18_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="1105" y="1810.75">SAMPLE-ITEM-18</tspan></text>
+<text id="_itemName_18_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="205" y="1810.75">Sample item</tspan></text>
+<text id="_vendorName_18_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1810.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+<text id="_modelCode_18_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="1105" y="1810.75">SAMPLE-ITEM-18</tspan></text>
 <g id="é•·æ–¹å½¢ 21_20">
 <path id="Vector_304" d="M1733 1777H1529V1827H1733V1777Z" fill="white"></path>
 <path id="Vector_305" d="M1732.5 1777.5H1529.5V1826.5H1732.5V1777.5Z" stroke="black"></path>
@@ -774,14 +774,14 @@
 <path id="Vector_306" d="M1966 1777H1732V1827H1966V1777Z" fill="white"></path>
 <path id="Vector_307" d="M1965.5 1777.5H1732.5V1826.5H1965.5V1777.5Z" stroke="black"></path>
 </g>
-<text id="_unitPrice_18_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1809.75">180</tspan></text>
-<text id="_total_18_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1809.75">3,240</tspan></text>
-<text id="_quantity_18_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1810.75">18</tspan></text>
+<text id="_unitPrice_18_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1809.75">180</tspan></text>
+<text id="_total_18_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1809.75">3,240</tspan></text>
+<text id="_quantity_18_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1810.75">18</tspan></text>
 <g id="é•·æ–¹å½¢ 10_21">
 <path id="Vector_308" d="M190 1826H135V1876H190V1826Z" fill="white"></path>
 <path id="Vector_309" d="M189.5 1826.5H135.5V1875.5H189.5V1826.5Z" stroke="black"></path>
 </g>
-<text id="20" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="144" y="1859.75">20</tspan></text>
+<text id="20" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="144" y="1859.75">20</tspan></text>
 <g id="é•·æ–¹å½¢ 9_21">
 <path id="Vector_310" d="M1096 1826H878V1876H1096V1826Z" fill="white"></path>
 <path id="Vector_311" d="M1095.5 1826.5H878.5V1875.5H1095.5V1826.5Z" stroke="black"></path>
@@ -798,9 +798,9 @@
 <path id="Vector_316" d="M1530 1826H1373V1876H1530V1826Z" fill="white"></path>
 <path id="Vector_317" d="M1529.5 1826.5H1373.5V1875.5H1529.5V1826.5Z" stroke="black"></path>
 </g>
-<text id="_itemName_19_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="205" y="1859.75">Sample item</tspan></text>
-<text id="_vendorName_19_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1859.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
-<text id="_modelCode_19_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="1105" y="1859.75">SAMPLE-ITEM-19</tspan></text>
+<text id="_itemName_19_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="205" y="1859.75">Sample item</tspan></text>
+<text id="_vendorName_19_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1859.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+<text id="_modelCode_19_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="1105" y="1859.75">SAMPLE-ITEM-19</tspan></text>
 <g id="é•·æ–¹å½¢ 21_21">
 <path id="Vector_318" d="M1733 1826H1529V1876H1733V1826Z" fill="white"></path>
 <path id="Vector_319" d="M1732.5 1826.5H1529.5V1875.5H1732.5V1826.5Z" stroke="black"></path>
@@ -809,14 +809,14 @@
 <path id="Vector_320" d="M1966 1826H1732V1876H1966V1826Z" fill="white"></path>
 <path id="Vector_321" d="M1965.5 1826.5H1732.5V1875.5H1965.5V1826.5Z" stroke="black"></path>
 </g>
-<text id="_unitPrice_19_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1858.75">190</tspan></text>
-<text id="_total_19_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1858.75">3,610</tspan></text>
-<text id="_quantity_19_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1859.75">19</tspan></text>
+<text id="_unitPrice_19_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1858.75">190</tspan></text>
+<text id="_total_19_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1858.75">3,610</tspan></text>
+<text id="_quantity_19_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1859.75">19</tspan></text>
 <g id="é•·æ–¹å½¢ 10_22">
 <path id="Vector_322" d="M190 1875H135V1925H190V1875Z" fill="white"></path>
 <path id="Vector_323" d="M189.5 1875.5H135.5V1924.5H189.5V1875.5Z" stroke="black"></path>
 </g>
-<text id="21" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="144" y="1908.75">21</tspan></text>
+<text id="21" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="144" y="1908.75">21</tspan></text>
 <g id="é•·æ–¹å½¢ 9_22">
 <path id="Vector_324" d="M1096 1875H878V1925H1096V1875Z" fill="white"></path>
 <path id="Vector_325" d="M1095.5 1875.5H878.5V1924.5H1095.5V1875.5Z" stroke="black"></path>
@@ -833,9 +833,9 @@
 <path id="Vector_330" d="M1530 1875H1373V1925H1530V1875Z" fill="white"></path>
 <path id="Vector_331" d="M1529.5 1875.5H1373.5V1924.5H1529.5V1875.5Z" stroke="black"></path>
 </g>
-<text id="_itemName_20_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="205" y="1908.75">Sample item</tspan></text>
-<text id="_vendorName_20_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1908.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
-<text id="_modelCode_20_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="1105" y="1908.75">SAMPLE-ITEM-20</tspan></text>
+<text id="_itemName_20_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="205" y="1908.75">Sample item</tspan></text>
+<text id="_vendorName_20_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1908.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+<text id="_modelCode_20_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="1105" y="1908.75">SAMPLE-ITEM-20</tspan></text>
 <g id="é•·æ–¹å½¢ 21_22">
 <path id="Vector_332" d="M1733 1875H1529V1925H1733V1875Z" fill="white"></path>
 <path id="Vector_333" d="M1732.5 1875.5H1529.5V1924.5H1732.5V1875.5Z" stroke="black"></path>
@@ -844,14 +844,14 @@
 <path id="Vector_334" d="M1966 1875H1732V1925H1966V1875Z" fill="white"></path>
 <path id="Vector_335" d="M1965.5 1875.5H1732.5V1924.5H1965.5V1875.5Z" stroke="black"></path>
 </g>
-<text id="_unitPrice_20_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1907.75">200</tspan></text>
-<text id="_total_20_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1907.75">4,000</tspan></text>
-<text id="_quantity_20_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1908.75">20</tspan></text>
+<text id="_unitPrice_20_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1907.75">200</tspan></text>
+<text id="_total_20_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1907.75">4,000</tspan></text>
+<text id="_quantity_20_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1908.75">20</tspan></text>
 <g id="é•·æ–¹å½¢ 10_23">
 <path id="Vector_336" d="M190 1924H135V1974H190V1924Z" fill="white"></path>
 <path id="Vector_337" d="M189.5 1924.5H135.5V1973.5H189.5V1924.5Z" stroke="black"></path>
 </g>
-<text id="22" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="144" y="1957.75">22</tspan></text>
+<text id="22" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="144" y="1957.75">22</tspan></text>
 <g id="é•·æ–¹å½¢ 9_23">
 <path id="Vector_338" d="M1096 1924H878V1974H1096V1924Z" fill="white"></path>
 <path id="Vector_339" d="M1095.5 1924.5H878.5V1973.5H1095.5V1924.5Z" stroke="black"></path>
@@ -868,9 +868,9 @@
 <path id="Vector_344" d="M1530 1924H1373V1974H1530V1924Z" fill="white"></path>
 <path id="Vector_345" d="M1529.5 1924.5H1373.5V1973.5H1529.5V1924.5Z" stroke="black"></path>
 </g>
-<text id="_itemName_21_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="205" y="1957.75">Sample item</tspan></text>
-<text id="_vendorName_21_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1957.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
-<text id="_modelCode_21_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="1105" y="1957.75">SAMPLE-ITEM-21</tspan></text>
+<text id="_itemName_21_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="205" y="1957.75">Sample item</tspan></text>
+<text id="_vendorName_21_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="1957.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+<text id="_modelCode_21_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="1105" y="1957.75">SAMPLE-ITEM-21</tspan></text>
 <g id="é•·æ–¹å½¢ 21_23">
 <path id="Vector_346" d="M1733 1924H1529V1974H1733V1924Z" fill="white"></path>
 <path id="Vector_347" d="M1732.5 1924.5H1529.5V1973.5H1732.5V1924.5Z" stroke="black"></path>
@@ -879,14 +879,14 @@
 <path id="Vector_348" d="M1966 1924H1732V1974H1966V1924Z" fill="white"></path>
 <path id="Vector_349" d="M1965.5 1924.5H1732.5V1973.5H1965.5V1924.5Z" stroke="black"></path>
 </g>
-<text id="_unitPrice_21_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1956.75">210</tspan></text>
-<text id="_total_21_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1956.75">4,410</tspan></text>
-<text id="_quantity_21_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1957.75">21</tspan></text>
+<text id="_unitPrice_21_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="1956.75">210</tspan></text>
+<text id="_total_21_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="1956.75">4,410</tspan></text>
+<text id="_quantity_21_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="1957.75">21</tspan></text>
 <g id="é•·æ–¹å½¢ 10_24">
 <path id="Vector_350" d="M190 1973H135V2023H190V1973Z" fill="white"></path>
 <path id="Vector_351" d="M189.5 1973.5H135.5V2022.5H189.5V1973.5Z" stroke="black"></path>
 </g>
-<text id="23" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="144" y="2006.75">23</tspan></text>
+<text id="23" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="144" y="2006.75">23</tspan></text>
 <g id="é•·æ–¹å½¢ 9_24">
 <path id="Vector_352" d="M1096 1973H878V2023H1096V1973Z" fill="white"></path>
 <path id="Vector_353" d="M1095.5 1973.5H878.5V2022.5H1095.5V1973.5Z" stroke="black"></path>
@@ -903,9 +903,9 @@
 <path id="Vector_358" d="M1530 1973H1373V2023H1530V1973Z" fill="white"></path>
 <path id="Vector_359" d="M1529.5 1973.5H1373.5V2022.5H1529.5V1973.5Z" stroke="black"></path>
 </g>
-<text id="_itemName_22_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="205" y="2006.75">Sample item</tspan></text>
-<text id="_vendorName_22_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="2006.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
-<text id="_modelCode_22_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="1105" y="2006.75">SAMPLE-ITEM-22</tspan></text>
+<text id="_itemName_22_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="205" y="2006.75">Sample item</tspan></text>
+<text id="_vendorName_22_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="2006.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+<text id="_modelCode_22_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="1105" y="2006.75">SAMPLE-ITEM-22</tspan></text>
 <g id="é•·æ–¹å½¢ 21_24">
 <path id="Vector_360" d="M1733 1973H1529V2023H1733V1973Z" fill="white"></path>
 <path id="Vector_361" d="M1732.5 1973.5H1529.5V2022.5H1732.5V1973.5Z" stroke="black"></path>
@@ -914,14 +914,14 @@
 <path id="Vector_362" d="M1966 1973H1732V2023H1966V1973Z" fill="white"></path>
 <path id="Vector_363" d="M1965.5 1973.5H1732.5V2022.5H1965.5V1973.5Z" stroke="black"></path>
 </g>
-<text id="_unitPrice_22_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="2005.75">220</tspan></text>
-<text id="_total_22_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="2005.75">4,840</tspan></text>
-<text id="_quantity_22_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="2006.75">22</tspan></text>
+<text id="_unitPrice_22_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="2005.75">220</tspan></text>
+<text id="_total_22_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="2005.75">4,840</tspan></text>
+<text id="_quantity_22_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="2006.75">22</tspan></text>
 <g id="é•·æ–¹å½¢ 10_25">
 <path id="Vector_364" d="M190 2022H135V2072H190V2022Z" fill="white"></path>
 <path id="Vector_365" d="M189.5 2022.5H135.5V2071.5H189.5V2022.5Z" stroke="black"></path>
 </g>
-<text id="24" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="144" y="2055.75">24</tspan></text>
+<text id="24" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="144" y="2055.75">24</tspan></text>
 <g id="é•·æ–¹å½¢ 9_25">
 <path id="Vector_366" d="M1096 2022H878V2072H1096V2022Z" fill="white"></path>
 <path id="Vector_367" d="M1095.5 2022.5H878.5V2071.5H1095.5V2022.5Z" stroke="black"></path>
@@ -938,9 +938,9 @@
 <path id="Vector_372" d="M1530 2022H1373V2072H1530V2022Z" fill="white"></path>
 <path id="Vector_373" d="M1529.5 2022.5H1373.5V2071.5H1529.5V2022.5Z" stroke="black"></path>
 </g>
-<text id="_itemName_23_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="205" y="2055.75">Sample item</tspan></text>
-<text id="_vendorName_23_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="2055.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
-<text id="_modelCode_23_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="1105" y="2055.75">SAMPLE-ITEM-23</tspan></text>
+<text id="_itemName_23_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="205" y="2055.75">Sample item</tspan></text>
+<text id="_vendorName_23_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="2055.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+<text id="_modelCode_23_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="1105" y="2055.75">SAMPLE-ITEM-23</tspan></text>
 <g id="é•·æ–¹å½¢ 21_25">
 <path id="Vector_374" d="M1733 2022H1529V2072H1733V2022Z" fill="white"></path>
 <path id="Vector_375" d="M1732.5 2022.5H1529.5V2071.5H1732.5V2022.5Z" stroke="black"></path>
@@ -949,14 +949,14 @@
 <path id="Vector_376" d="M1966 2022H1732V2072H1966V2022Z" fill="white"></path>
 <path id="Vector_377" d="M1965.5 2022.5H1732.5V2071.5H1965.5V2022.5Z" stroke="black"></path>
 </g>
-<text id="_unitPrice_23_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="2054.75">230</tspan></text>
-<text id="_total_23_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="2054.75">5,290</tspan></text>
-<text id="_quantity_23_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="2055.75">23</tspan></text>
+<text id="_unitPrice_23_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="2054.75">230</tspan></text>
+<text id="_total_23_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="2054.75">5,290</tspan></text>
+<text id="_quantity_23_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="2055.75">23</tspan></text>
 <g id="é•·æ–¹å½¢ 10_26">
 <path id="Vector_378" d="M190 2071H135V2121H190V2071Z" fill="white"></path>
 <path id="Vector_379" d="M189.5 2071.5H135.5V2120.5H189.5V2071.5Z" stroke="black"></path>
 </g>
-<text id="25" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="144" y="2104.75">25</tspan></text>
+<text id="25" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="144" y="2104.75">25</tspan></text>
 <g id="é•·æ–¹å½¢ 9_26">
 <path id="Vector_380" d="M1096 2071H878V2121H1096V2071Z" fill="white"></path>
 <path id="Vector_381" d="M1095.5 2071.5H878.5V2120.5H1095.5V2071.5Z" stroke="black"></path>
@@ -973,9 +973,9 @@
 <path id="Vector_386" d="M1530 2071H1373V2121H1530V2071Z" fill="white"></path>
 <path id="Vector_387" d="M1529.5 2071.5H1373.5V2120.5H1529.5V2071.5Z" stroke="black"></path>
 </g>
-<text id="_itemName_24_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="205" y="2104.75">Sample item</tspan></text>
-<text id="_vendorName_24_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="2104.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
-<text id="_modelCode_24_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="1105" y="2104.75">SAMPLE-ITEM-24</tspan></text>
+<text id="_itemName_24_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="205" y="2104.75">Sample item</tspan></text>
+<text id="_vendorName_24_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="2104.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+<text id="_modelCode_24_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="1105" y="2104.75">SAMPLE-ITEM-24</tspan></text>
 <g id="é•·æ–¹å½¢ 21_26">
 <path id="Vector_388" d="M1733 2071H1529V2121H1733V2071Z" fill="white"></path>
 <path id="Vector_389" d="M1732.5 2071.5H1529.5V2120.5H1732.5V2071.5Z" stroke="black"></path>
@@ -984,14 +984,14 @@
 <path id="Vector_390" d="M1966 2071H1732V2121H1966V2071Z" fill="white"></path>
 <path id="Vector_391" d="M1965.5 2071.5H1732.5V2120.5H1965.5V2071.5Z" stroke="black"></path>
 </g>
-<text id="_unitPrice_24_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="2103.75">240</tspan></text>
-<text id="_total_24_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="2103.75">5,760</tspan></text>
-<text id="_quantity_24_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="2104.75">24</tspan></text>
+<text id="_unitPrice_24_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="2103.75">240</tspan></text>
+<text id="_total_24_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="2103.75">5,760</tspan></text>
+<text id="_quantity_24_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="2104.75">24</tspan></text>
 <g id="é•·æ–¹å½¢ 10_27">
 <path id="Vector_392" d="M190 2120H135V2170H190V2120Z" fill="white"></path>
 <path id="Vector_393" d="M189.5 2120.5H135.5V2169.5H189.5V2120.5Z" stroke="black"></path>
 </g>
-<text id="26" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="144" y="2153.75">26</tspan></text>
+<text id="26" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="144" y="2153.75">26</tspan></text>
 <g id="é•·æ–¹å½¢ 9_27">
 <path id="Vector_394" d="M1096 2120H878V2170H1096V2120Z" fill="white"></path>
 <path id="Vector_395" d="M1095.5 2120.5H878.5V2169.5H1095.5V2120.5Z" stroke="black"></path>
@@ -1008,9 +1008,9 @@
 <path id="Vector_400" d="M1530 2120H1373V2170H1530V2120Z" fill="white"></path>
 <path id="Vector_401" d="M1529.5 2120.5H1373.5V2169.5H1529.5V2120.5Z" stroke="black"></path>
 </g>
-<text id="_itemName_25_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="205" y="2153.75">Sample item</tspan></text>
-<text id="_vendorName_25_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="2153.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
-<text id="_modelCode_25_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="1105" y="2153.75">SAMPLE-ITEM-25</tspan></text>
+<text id="_itemName_25_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="205" y="2153.75">Sample item</tspan></text>
+<text id="_vendorName_25_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" textLength="200" lengthAdjust="spacingAndGlyphs"><tspan x="889" y="2153.75" textLength="200" lengthAdjust="spacingAndGlyphs">Sample vendor</tspan></text>
+<text id="_modelCode_25_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="1105" y="2153.75">SAMPLE-ITEM-25</tspan></text>
 <g id="é•·æ–¹å½¢ 21_27">
 <path id="Vector_402" d="M1733 2120H1529V2170H1733V2120Z" fill="white"></path>
 <path id="Vector_403" d="M1732.5 2120.5H1529.5V2169.5H1732.5V2120.5Z" stroke="black"></path>
@@ -1019,26 +1019,26 @@
 <path id="Vector_404" d="M1966 2120H1732V2170H1966V2120Z" fill="white"></path>
 <path id="Vector_405" d="M1965.5 2120.5H1732.5V2169.5H1965.5V2120.5Z" stroke="black"></path>
 </g>
-<text id="_unitPrice_25_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="2152.75">250</tspan></text>
-<text id="_total_25_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="2152.75">6,250</tspan></text>
-<text id="_quantity_25_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="2153.75">25</tspan></text>
-<text id="_subtotal_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="2212.75">55,250</tspan></text>
-<text id="Subtotal" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="1572" y="2212.75">Subtotal</tspan></text>
-<text id="Discount" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="1568" y="2280.75">Discount</tspan></text>
-<text id="Discounted Subtotal" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="25" letter-spacing="0em"><tspan x="1563.78" y="2335.04">Discounted
+<text id="_unitPrice_25_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(185 0)" text-anchor="end"><tspan x="1540" y="2152.75">250</tspan></text>
+<text id="_total_25_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="2152.75">6,250</tspan></text>
+<text id="_quantity_25_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(70 0)" text-anchor="middle"><tspan x="1382" y="2153.75">25</tspan></text>
+<text id="_subtotal_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="2212.75">55,250</tspan></text>
+<text id="Subtotal" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="1572" y="2212.75">Subtotal</tspan></text>
+<text id="Discount" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="1568" y="2280.75">Discount</tspan></text>
+<text id="Discounted Subtotal" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="25" letter-spacing="0em"><tspan x="1563.78" y="2335.04">Discounted
 </tspan><tspan x="1580.34" y="2364.04">Subtotal</tspan></text>
-<text id="Tax" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="1607" y="2416.75">Tax</tspan></text>
-<text id="Quote total" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="1552" y="2484.75">Quote total</tspan></text>
-<text id="_discount_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1740" y="2280.75">100</tspan></text>
-<text id="_remark_" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(135 2297.75)"><tspan x="15" y="15">This is a remark. This is a remark. This is a remark. This is a remark. This is a rema</tspan><tspan x="15" y="51">rk. This is a remark. This is a remark. This is a remark. This is a remark. This is a </tspan><tspan x="15" y="87">remark. This is a remark. This is a remark. This is a remark.</tspan></text>
-<text id="_discountedSubtotal_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="2348.75">55,150</tspan></text>
-<text id="_tax_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="2416.75">5,515</tspan></text>
-<text id="_quoteTotal_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="2484.75">60,665</tspan></text>
-<text id="_additionalComment_" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em" transform="translate(138 2580.75)"><tspan x="15" y="15">This is an additional comment. This is an additional comment. This is an additional comment. This is an additional comme</tspan><tspan x="15" y="51">nt. This is an additional comment. This is an additional comment. This is an additional comment. This is an additional c</tspan><tspan x="15" y="87">omment. This is an additional comment.</tspan></text>
-<text id="date" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="23" letter-spacing="0em"><tspan x="1503" y="408.61">date</tspan></text>
+<text id="Tax" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="1607" y="2416.75">Tax</tspan></text>
+<text id="Quote total" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="1552" y="2484.75">Quote total</tspan></text>
+<text id="_discount_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1740" y="2280.75">100</tspan></text>
+<text id="_remark_" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(135 2297.75)"><tspan x="15" y="15">This is a remark. This is a remark. This is a remark. This is a remark. This is a rema</tspan><tspan x="15" y="51">rk. This is a remark. This is a remark. This is a remark. This is a remark. This is a </tspan><tspan x="15" y="87">remark. This is a remark. This is a remark. This is a remark.</tspan></text>
+<text id="_discountedSubtotal_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="2348.75">55,150</tspan></text>
+<text id="_tax_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="2416.75">5,515</tspan></text>
+<text id="_quoteTotal_" fill="black" xml:space="preserve" style="white-space: pre; display: block;" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(215 0)" text-anchor="end"><tspan x="1743" y="2484.75">60,665</tspan></text>
+<text id="_additionalComment_" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em" transform="translate(138 2580.75)"><tspan x="15" y="15">This is an additional comment. This is an additional comment. This is an additional comment. This is an additional comme</tspan><tspan x="15" y="51">nt. This is an additional comment. This is an additional comment. This is an additional comment. This is an additional c</tspan><tspan x="15" y="87">omment. This is an additional comment.</tspan></text>
+<text id="date" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="23" letter-spacing="0em"><tspan x="1503" y="408.61">date</tspan></text>
 <path id="é•·æ–¹å½¢ 144" d="M1965 594H1452V730H1965V594Z" fill="white"></path>
-<text id="_address_" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="25" letter-spacing="0em" transform="translate(1452 614.045)"><tspan x="12.5" y="12.5">1600 Amphitheatre Parkway</tspan><tspan x="12.5" y="42.5">Mountain View, CA 94043</tspan><tspan x="12.5" y="72.5">United States</tspan></text>
-<text id="Delivered by" fill="black" xml:space="preserve" style="white-space: pre" font-family="monospace" font-size="30" letter-spacing="0em"><tspan x="184" y="570.901">Delivered by</tspan></text>
+<text id="_address_" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="25" letter-spacing="0em" transform="translate(1452 614.045)"><tspan x="12.5" y="12.5">1600 Amphitheatre Parkway</tspan><tspan x="12.5" y="42.5">Mountain View, CA 94043</tspan><tspan x="12.5" y="72.5">United States</tspan></text>
+<text id="Delivered by" fill="black" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="30" letter-spacing="0em"><tspan x="184" y="570.901">Delivered by</tspan></text>
 <rect id="kannade logo" x="1451" y="504" width="330" height="81" fill="url(#pattern0)"></rect>
 </g>
 </g>
