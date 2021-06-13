@@ -8,6 +8,13 @@ jest.mock('../src/adjust-text')
 import mockAdjustTextarea from '../src/adjust-textarea'
 jest.mock('../src/adjust-textarea', () => jest.fn(() => '<text><tspan>replaced</tspan></text>'))
 
+test('constructor', () => {
+  document.body.innerHTML = '<svg><text>test</text></svg>'
+  expect(() => {
+    new SvgPaper('.invalid-selector')
+  }).toThrow('Invalid selector')
+})
+
 test('replace', () => {
   // plain text
   document.body.innerHTML = '<svg><text>test</text></svg>'
