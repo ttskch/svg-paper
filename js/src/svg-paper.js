@@ -5,6 +5,10 @@ import adjustTextarea from './adjust-textarea'
 
 export default class SvgPaper {
   constructor(selector = 'svg') {
+    if (!document.querySelector(selector)) {
+      throw new Error('Invalid selector')
+    }
+
     this.selector = selector
     this.svg = document.querySelector(selector).outerHTML.replace(/[\r|\n]+/g, "\n")
     this.adjustTextQueries = []
@@ -40,10 +44,14 @@ export default class SvgPaper {
   adjustTextarea(selector, width, height, lineHeight = 1.2, paddingX = 0.5, paddingY = 0.5, nowrap = false) {
     const doc = new DOMParser().parseFromString(this.svg, 'text/html')
     const textElement = doc.querySelector(selector)
+    if (!textElement) {
+      return this
+    }
+
     const textSvg = textElement.outerHTML
     // SVGElement doesn't have innerText
     // @see https://developer.mozilla.org/en-US/docs/Web/API/SVGElement
-    const textContent = textElement.innerHTML.replace(new RegExp('^<tspan[^>]*>((.|\\s)*)</tspan>$'), '$1')
+    const textContent = textElement.innerHTML.replace(new RegExp('^<tspan[^>]*>([\\S|\\s]*)</tspan>$'), '$1')
 
     const adjustedTextSvg = adjustTextarea(textSvg, textContent, width, height, lineHeight, paddingX, paddingY, nowrap)
 
