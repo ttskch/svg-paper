@@ -89,7 +89,7 @@ paper
   // in the other words, if actual width of the content is bigger than 1000 it shrinks automatically
   .adjustText('#selector1', 1000)
 
-  // set max width to 800 and brings the element #_caseName to the center of 800 width area   
+  // set max width to 800 and brings the element #selector2 to the center of 800 width area   
   .adjustText('#selector2', 800, 'middle')
 
   // of course you can bring it to the end
