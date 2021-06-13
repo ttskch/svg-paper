@@ -74,4 +74,4 @@ The exported SVG has to meet the following conditions.
 * Text isn't outlined. (`<path>` isn't used for text but `<text>` is)
 * Can specify `<text>` elements including placeholders with CSS selector. (like `#some-id`)
 
-> If you use svg-paper with SVG output by other tools, please [send me a PR](https://github.com/ttskch/svg-paper/edit/main/docs/workflows/README.md) 😇
+> If you use svg-paper with SVG output by other tools, please [send me a PR](https://github.com/ttskch/svg-paper/edit/main/docs/how-to-prepare-svg-template.md) 😇
