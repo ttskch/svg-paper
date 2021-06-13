@@ -45,6 +45,9 @@ You can get the built assets from [jsDelivr](https://www.jsdelivr.com/package/np
 
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/svg-paper/dist/svg-paper.min.css">
+```
+
+```html
 <script src="https://cdn.jsdelivr.net/npm/svg-paper/dist/svg-paper.min.js"></script>
 ```
 
