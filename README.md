@@ -47,6 +47,11 @@ You can get built assets from [jsDelivr](https://www.jsdelivr.com/package/npm/sv
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/svg-paper@x.x.x/dist/svg-paper.min.css">
 
 <script src="https://cdn.jsdelivr.net/npm/svg-paper@x.x.x/dist/svg-paper.min.js"></script>
+
+<script>
+  paper = new SvgPaper()
+  paper.replace('%placeholder%', 'Actual value')
+</script>
 ```
 
 ### npm
@@ -55,6 +60,13 @@ Of course you can install via [npm](https://www.npmjs.com/package/svg-paper).
 
 ```bash
 $ npm install svg-paper
+```
+
+```js
+import SvgPaper from 'svg-paper'
+
+paper = new SvgPaper()
+paper.replace('%placeholder%', 'Actual value')
 ```
 
 ## Basic usage
