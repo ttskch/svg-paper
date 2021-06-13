@@ -199,9 +199,9 @@ public function paperAction($id)
 
 ```js
 // your-script.js
-const replacements = $('[data-replacements]').data('replacements')
-
 const paper = new SvgPaper()
+
+const replacements = $('[data-replacements]').data('replacements')
 
 for (let [search, replacement] of Object.entries(replacements)) {
   paper.replace(search, replacement)
