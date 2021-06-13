@@ -9,6 +9,23 @@ The world's most maintainable way to create paper-printable documents 🖨💘
 
 ![](https://user-images.githubusercontent.com/4360663/121766151-f6b64d80-cb8a-11eb-8736-3a28b4c03d70.png)
 
+## TOC
+
+<details>
+
+* [Workflows](#workflows)
+* [Installation](#installation)
+    * [CDN](#cdn)
+    * [npm](#npm)
+* [Basic usage](#basic-usage)
+* [Tips](#tips)
+    * [Hiding content before placeholders are replaced](#hiding-content-before-placeholders-are-replaced)
+* [With non Node.js back-end](#with-non-nodejs-back-end)
+    * [e.g. PHP and Twig](#eg-php-and-twig)
+* [PDF generation](#pdf-generation)
+
+</details>
+
 ## Workflows
 
 You can print beautiful and maintainable paper documents by following steps:
@@ -232,7 +249,7 @@ for (let [selector, args] of Object.entries(textareaAdjustments)) {
 paper.apply()
 ```
 
-## PDF Generation
+## PDF generation
 
 You can easily print to PDF directly by using [electron-pdf](https://github.com/fraserxu/electron-pdf).
 
