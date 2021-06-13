@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2100" height="2970" viewBox="0 0 2100 2970">
   <defs>
-    <clipPath id="clip-real-world-paper">
+    <clipPath id="clip-real-world-paper-xd">
       <rect width="2100" height="2970"/>
     </clipPath>
   </defs>
-  <g id="real-world-paper" clip-path="url(#clip-real-world-paper)">
+  <g id="real-world-paper-xd" clip-path="url(#clip-real-world-paper-xd)">
     <rect width="2100" height="2970" fill="#fff"/>
     <g id="長方形_2" data-name="長方形 2" transform="translate(135 2557)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="1830" height="298" stroke="none"/>
