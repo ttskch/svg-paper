@@ -17,61 +17,70 @@ The world's most maintainable way to create paper-printable documents 🖨💘
 * [Installation](#installation)
     * [CDN](#cdn)
     * [npm](#npm)
+* [How to prepare SVG template](how-to-prepare-svg-template)
 * [Basic usage](#basic-usage)
+* [Beautify preview screen](beautify-preview-screen)
+* [Passing variables from back-end to front-end](passing-variables-from-back-end-to-front-end)
+    * [PHP and Twig example](php-and-twig-example)
 * [Tips](#tips)
-    * [Hiding content before placeholders are replaced](#hiding-content-before-placeholders-are-replaced)
-* [With non Node.js back-end](#with-non-nodejs-back-end)
-    * [e.g. PHP and Twig](#eg-php-and-twig)
+  * [Hiding content before placeholders are replaced](#hiding-content-before-placeholders-are-replaced)
 * [PDF generation](#pdf-generation)
 
 </details>
 
 ## Workflows
 
-You can print beautiful and maintainable paper documents by following steps:
+You can print beautiful and maintainable paper documents by following steps.
 
 1. Design the document with [Adobe XD](https://www.adobe.com/products/xd.html), [Figma](https://www.figma.com/), or something
 1. Export it as SVG
-1. Embed SVG into your HTML and fix it with **svg-paper**
+1. Embed SVG into your HTML and fix it with **svg-paper** on client side
 1. That's it 💥
-
-To learn more please see [this doc](docs/workflows/README.md) 📝
 
 ## Installation
 
 ### CDN
 
-You can get built assets from [jsDelivr](https://www.jsdelivr.com/package/npm/svg-paper).
+You can get the built assets from [jsDelivr](https://www.jsdelivr.com/package/npm/svg-paper).
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/svg-paper@x.x.x/dist/svg-paper.min.css">
-
-<script src="https://cdn.jsdelivr.net/npm/svg-paper@x.x.x/dist/svg-paper.min.js"></script>
-
-<script>
-  paper = new SvgPaper()
-  paper.replace('%placeholder%', 'Actual value')
-</script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/svg-paper/dist/svg-paper.min.css">
+<script src="https://cdn.jsdelivr.net/npm/svg-paper/dist/svg-paper.min.js"></script>
 ```
 
 ### npm
 
-Of course you can install via [npm](https://www.npmjs.com/package/svg-paper).
+Of course you also can install via [npm](https://www.npmjs.com/package/svg-paper).
 
 ```bash
 $ npm install svg-paper
 ```
 
-```js
-import SvgPaper from 'svg-paper'
+## How to prepare SVG template
 
-paper = new SvgPaper()
-paper.replace('%placeholder%', 'Actual value')
-```
+See [this doc](docs/how-to-prepare-svg-template.md) 📝
 
 ## Basic usage
 
-You can replace or adjust SVG contents in HTML easily with svg-paper like following.
+First, just embed SVG content in `<body></body>` like following.
+
+```html
+<body>
+  <svg>...</svg>
+</body>
+```
+
+Next, load `svg-paper[.min].js` with `<script>` tag or import/require `svg-pager[.min].js` as a module.
+
+```html
+<script src="svg-paper.min.js"></script>
+<script>
+  const paper = new SvgPaper()
+  // ...
+</script>
+```
+
+or
 
 ```js
 import SvgPaper from 'svg-paper'
@@ -79,7 +88,11 @@ import SvgPaper from 'svg-paper'
 // const SvgPaper = require('svg-paper')
 
 const paper = new SvgPaper()
+```
 
+Then you can replace or adjust SVG contents in DOM easily with svg-paper like following.
+
+```js
 paper
   // replace placeholder to actual value
   .replace('%placeholder1%', 'Actual value 1')
@@ -112,6 +125,8 @@ paper
   .apply()
 ```
 
+## Beautify preview screen
+
 To beautify preview screen, you should add only 3 lines to your HTML 👍
 
 ```html
@@ -136,7 +151,61 @@ Available page sizes are:
 * `letter` `letter landscape`
 * `legal` `legal landscape`
 
-To learn more about usage please see [this doc](docs/workflows/README.md) or [some test codes](js/tests/real-world.test.js).
+## Passing variables from back-end to front-end
+
+svg-paper depends on DOM, so in most cases you have to pass variables to be replaced with placeholders in template from back-end to front-end.
+
+The most easy ways is just passing replacements and text/textarea adjustment parameters to front-end as JSON string.
+
+### PHP and Twig example
+
+```php
+// Controller
+public function paperAction($id)
+{
+    $model = $repository->findById($id);
+    
+    return $this->render('paper.html.twig', [
+        'svg' => file_get_contents('/path/to/paper.svg'),
+        'replacements' => [
+            '%name%' => $model->name,
+            // ... and more
+        ],
+    ]);
+}
+```
+
+```twig
+{# paper.html.twig #}
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="svg-paper.min.css">
+  <style>@page { size: A4 }</style>
+</head>
+
+<body class="A4">
+  {{ svg|raw }}
+  <div data-replacements="{{ replacements|json_encode }}"></div>
+
+  <script src="svg-paper.min.js"></script>
+  <script src="your-script.js"></script>
+</body>
+</html>
+```
+
+```js
+// your-script.js
+const replacements = $('[data-replacements]').data('replacements')
+
+const paper = new SvgPaper()
+
+for (let [search, replacement] of Object.entries(replacements)) {
+  paper.replace(search, replacement)
+}
+
+paper.apply()
+```
 
 ## Tips
 
@@ -157,108 +226,6 @@ This problem is very easy to solve just by adding some "blinder" layer on the co
 paper.apply()
 
 document.querySelector('#blinder').style.display = 'none'
-```
-
-## With non Node.js back-end
-
-Even if your back-end isn't Node.js, of course you can use svg-paper 👍
-
-The most easy ways is just passing replacements and text/textarea adjustment parameters to front-end as JSON string.
-
-### e.g. PHP and Twig
-
-```php
-// Controller
-public function paper(YourModel $model, YourPaperDefinition $paper)
-{
-    return $this->render('paper.html.twig', [
-        'svg' => $paper->getSvg(),
-        'replacements' => $paper->getReplacements($model),
-        'textAdjustments' => $paper->getTextAdjustments(),
-        'textAreaAdjustments' => $paper->getTextAreaAdjustments(),
-    ]);
-}
-```
-
-```php
-// YourPaperDefinition
-class YourPaperDefinition
-{
-    public function getSvg()
-    {
-        return file_get_contents('/path/to/paper.svg');
-    }
-    
-    public function getReplacements(YourModel $model): array
-    {
-        return [
-            '%placeholder1%' => 'Actual value 1',
-            // ... and more
-        ];
-    }
-    
-    public function getTextAdjustments(): array
-    {
-        return [
-            // selector => [args for SvgPaper.adjustText()]
-            '#selector1' => [1000],
-            '#selector2' => [800, 'middle'],
-            '#selector3' => [800, 'end'],
-        ];
-    }
-
-    public function getTextareaAdjustments(): array
-    {
-        // selector => [args for SvgPaper.adjustTextarea()]
-        return [
-            '#selector2' => [600, 300], 
-            // ... and more
-        ];
-    }
-}
-```
-
-```twig
-{# paper.html.twig #}
-<!DOCTYPE html>
-<html>
-<head>
-  <link rel="stylesheet" href="svg-paper.min.css">
-  <style>@page { size: A4 }</style>
-</head>
-
-<body class="A4">
-  {{ svg|raw }}
-  <div data-replacements="{{ replacements|json_encode }}"></div>
-  <div data-text-adjustments="{{ textAdjustments|json_encode }}"></div>
-  <div data-textarea-adjustments="{{ textAdjustments|json_encode }}"></div>
-  <script src="svg-paper.min.js"></script>
-  <script src="your-script.js"></script>
-</body>
-</html>
-```
-
-```js
-// your-script.js
-const replacements = $('[data-replacements]').data('replacements')
-const textAdjustments = $('[data-adjustments]').data('text-adjustments')
-const textareaAdjustments = $('[data-adjustments]').data('textarea-adjustments')
-
-const paper = new SvgPaper()
-
-for (let [search, replacement] of Object.entries(replacements)) {
-  paper.replace(search, replacement)
-}
-
-for (let [selector, args] of Object.entries(textAdjustments)) {
-  paper.adjustText(selector, ...args)
-}
-
-for (let [selector, args] of Object.entries(textareaAdjustments)) {
-  paper.adjustTextarea(selector, ...args)
-}
-
-paper.apply()
 ```
 
 ## PDF generation
