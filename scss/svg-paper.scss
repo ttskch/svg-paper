@@ -10,33 +10,37 @@
 
 body {
   color-adjust: exact;
-  svg {
-    page-break-after: always;
+  .paper {
+    svg {
+      page-break-after: always;
+    }
   }
 }
 
 // heights are a little smaller than real size so that an empty last page isn't shown
-body.A3               svg { width: 297mm; height: 418mm }
-body.A3.landscape     svg { width: 420mm; height: 295mm }
-body.A4               svg { width: 210mm; height: 295mm }
-body.A4.landscape     svg { width: 297mm; height: 208mm }
-body.A5               svg { width: 148mm; height: 208mm }
-body.A5.landscape     svg { width: 210mm; height: 146mm }
-body.letter           svg { width: 216mm; height: 278mm }
-body.letter.landscape svg { width: 280mm; height: 214mm }
-body.legal            svg { width: 216mm; height: 355mm }
-body.legal.landscape  svg { width: 357mm; height: 214mm }
+.paper.A3               svg { width: 297mm; height: 418mm }
+.paper.A3.landscape     svg { width: 420mm; height: 295mm }
+.paper.A4               svg { width: 210mm; height: 295mm }
+.paper.A4.landscape     svg { width: 297mm; height: 208mm }
+.paper.A5               svg { width: 148mm; height: 208mm }
+.paper.A5.landscape     svg { width: 210mm; height: 146mm }
+.paper.letter           svg { width: 216mm; height: 278mm }
+.paper.letter.landscape svg { width: 280mm; height: 214mm }
+.paper.legal            svg { width: 216mm; height: 355mm }
+.paper.legal.landscape  svg { width: 357mm; height: 214mm }
 
 // for preview screen
 @media screen {
   body {
     background-color: #ccc;
-    svg {
-      display: block;
-      margin: 0 auto;
-      background-color: #fff;
-      box-shadow: 0 .5mm 2mm rgba(0,0,0,.3);
-      margin-top: 5mm;
+    .paper {
+      svg {
+        display: block;
+        margin: 0 auto;
+        background-color: #fff;
+        box-shadow: 0 .5mm 2mm rgba(0,0,0,.3);
+        margin-top: 5mm;
+      }
     }
   }
 }

@@ -24,7 +24,7 @@ test('real world paper created with Figma', () => {
 function doTest(pathToOriginalSvg, pathToOutputSvg, pathToOutputHtml, pathToExpectedOutputSvg) {
   document.body.innerHTML = fs.readFileSync(pathToOriginalSvg, 'utf-8')
 
-  const paper = new SvgPaper()
+  const paper = new SvgPaper('svg')
 
   paper
     .replace('%customerName%', 'Mr. John Smith')

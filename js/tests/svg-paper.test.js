@@ -18,28 +18,28 @@ test('constructor', () => {
 test('replace', () => {
   // plain text
   document.body.innerHTML = '<svg><text>test</text></svg>'
-  new SvgPaper()
+  new SvgPaper('svg')
     .replace('test', 'replaced')
     .apply()
   expect(document.body.innerHTML).toEqual('<svg><text>replaced</text></svg>')
 
   // regexp
   document.body.innerHTML = '<svg><image id="image" width="100" height="100" transform="translate(10 10)" xlink:href="data:image/png;base64,..."></image></svg>'
-  new SvgPaper()
+  new SvgPaper('svg')
     .replace(new RegExp('<image id="image" (.+) xlink:href="([^"]+)"></image>'), '<image id="image" $1 xlink:href="/replaced/url"></image>')
     .apply()
   expect(document.body.innerHTML).toEqual('<svg><image id="image" width="100" height="100" transform="translate(10 10)" xlink:href="/replaced/url"></image></svg>')
 
   // with CRLF
   document.body.innerHTML = "<svg><text>test\r\ntest</text></svg>"
-  new SvgPaper()
+  new SvgPaper('svg')
     .replace("test\ntest", "best\rbest")
     .apply()
   expect(document.body.innerHTML).toEqual("<svg><text>best\nbest</text></svg>")
 })
 
 test('adjustText', () => {
-  new SvgPaper()
+  new SvgPaper('svg')
     .adjustText('selector1', 1, 'middle')
     .adjustText('selector2', 2, 'end')
     .apply()
@@ -54,7 +54,7 @@ test('adjustText', () => {
 test('adjustTextarea', () => {
   document.body.innerHTML = '<svg><text><tspan>test</tspan></text></svg>'
 
-  new SvgPaper()
+  new SvgPaper('svg')
     .adjustTextarea('text', 1, 2, 3, 0.1, 0.2, true)
     .apply()
 

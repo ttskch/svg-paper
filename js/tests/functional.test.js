@@ -6,7 +6,7 @@ import SvgPaper from '../src/svg-paper'
 test('textarea with single-byte characters', () => {
   document.body.innerHTML = fs.readFileSync('js/tests/resources/fixtures-textarea.svg', 'utf-8')
 
-  const paper = new SvgPaper()
+  const paper = new SvgPaper('svg')
 
   paper
     .replace('%text%', 'This is a long text.'.repeat(20))
@@ -25,7 +25,7 @@ test('textarea with single-byte characters', () => {
 test('textarea with multi-byte characters', () => {
   document.body.innerHTML = fs.readFileSync('js/tests/resources/fixtures-textarea.svg', 'utf-8')
 
-  const paper = new SvgPaper()
+  const paper = new SvgPaper('svg')
 
   paper
     .replace('%text%', 'これはテキストです。'.repeat(20))
@@ -44,7 +44,7 @@ test('textarea with multi-byte characters', () => {
 test('textarea with single-byte and multi-byte characters also with line-breaks', () => {
   document.body.innerHTML = fs.readFileSync('js/tests/resources/fixtures-textarea.svg', 'utf-8')
 
-  const paper = new SvgPaper()
+  const paper = new SvgPaper('svg')
 
   paper
     .replace('%text%', 'これはテキストです。'.repeat(10) + "\n" + 'これはテキストです。'.repeat(10))

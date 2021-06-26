@@ -4,7 +4,7 @@ import adjustText from './adjust-text'
 import adjustTextarea from './adjust-textarea'
 
 export default class SvgPaper {
-  constructor(selector = 'svg') {
+  constructor(selector = '.paper svg') {
     if (!document.querySelector(selector)) {
       throw new Error('Invalid selector')
     }

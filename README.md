@@ -65,11 +65,13 @@ See [this doc](docs/how-to-prepare-svg-template.md) 📝
 
 ## Basic usage
 
-First, just embed SVG content in `<body></body>` like following.
+First, just embed SVG content in `.paper` element like following.
 
 ```html
 <body>
-  <svg>...</svg>
+  <div class="paper">
+    <svg>...</svg>
+  </div>
 </body>
 ```
 
@@ -139,12 +141,14 @@ To beautify preview screen, you should add only 3 lines to your HTML 👍
   <style>@page { size: A4 }</style> <!-- here -->
 </head>
 
-<body class="A4"> <!-- here -->
-  <svg>...</svg>
+<body>
+  <div class="paper A4"> <!-- here -->
+    <svg>...</svg>
+  </div>
 </body>
 ```
 
-Just load `svg-paper.min.css` (or `svg-paper.css`), in `<head>` set [@page size](https://developer.mozilla.org/en-US/docs/Web/CSS/@page/size), and set the class of `<body>` to specify page size.
+Just load `svg-paper.min.css` (or `svg-paper.css`), in `<head>` set [@page size](https://developer.mozilla.org/en-US/docs/Web/CSS/@page/size), and set the class of `.paper` element to specify page size.
 
 Available page sizes are:
 
@@ -187,8 +191,10 @@ public function paperAction($id)
   <style>@page { size: A4 }</style>
 </head>
 
-<body class="A4">
-  {{ svg|raw }}
+<body>
+  <div class="paper A4">
+    {{ svg|raw }}
+  </div>
   <div data-replacements="{{ replacements|json_encode }}"></div>
 
   <script src="svg-paper.min.js"></script>
@@ -221,7 +227,9 @@ This problem is very easy to solve just by adding some "blinder" layer on the co
 ```html
 <body>
   <div id="blinder" style="width:100vw; height:100vh; background-color:#ccc"></div>
-  <svg>...</svg>
+  <div class="paper">
+    <svg>...</svg>
+  </div>
 </body>
 ```
 
