@@ -1,6 +1,6 @@
 'use strict'
 
-export default (selector, config) => {
+export default (selector, config, paperPixelRatio = 1) => {
   const $this = document.querySelector(selector)
 
   if (!$this) {
@@ -13,7 +13,7 @@ export default (selector, config) => {
     // @see https://developer.mozilla.org/ja/docs/Web/API/Element/clientWidth
     $this.style.display = 'block'
 
-    if ($this.clientWidth > config.textLength) {
+    if ($this.getBoundingClientRect().width * paperPixelRatio > config.textLength) {
       $this.querySelector('tspan').setAttribute('textLength', config.textLength)
       $this.querySelector('tspan').setAttribute('lengthAdjust', 'spacingAndGlyphs')
 

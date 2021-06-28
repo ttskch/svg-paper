@@ -66,10 +66,19 @@ export default class SvgPaper {
     }
 
     this.adjustTextQueries.forEach(query => {
+      // if viewBox is specified, Element.clientWidth and Element.getBoundingClientRect() return different values
+      //   clientWidth: ???
+      //   getBoundingClientRect(): pure pixel value
+      // so this library uses getBoundingClientRect() and pre-calculated ratio to specify the width of some elements
+      // @see https://stackoverflow.com/questions/15335926/how-to-use-the-svg-viewbox-attribute
+      const $svg = document.querySelector(this.selector)
+      const viewBoxWidth = $svg.getAttribute('viewBox')?.split(/ +/)[2] ?? null
+      const paperPixelRatio = viewBoxWidth ? parseFloat(viewBoxWidth) / $svg.getBoundingClientRect().width : 1
+
       adjustText(query.selector, {
         textLength: query.textLength,
         'text-anchor': query.textAnchor,
-      })
+      }, paperPixelRatio)
     })
 
     // initialize

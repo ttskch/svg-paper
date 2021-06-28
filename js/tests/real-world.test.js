@@ -84,7 +84,7 @@ function doTest(pathToOriginalSvg, pathToOutputSvg, pathToOutputHtml, pathToExpe
   // actually, Element.clientWidth returns always 0 in test.
   // so mock Element.clientWidth only for vendorName elements, which have overflowing contents, and re-apply adjustText() to document
   for (const i of [...Array(26)].keys()) {
-    jest.spyOn(document.querySelector(`#_vendorName_${i}_`), 'clientWidth', 'get').mockImplementation(() => 424)
+    jest.spyOn(document.querySelector(`#_vendorName_${i}_`), 'getBoundingClientRect').mockImplementation(() => ({width: 424}))
     paper.adjustText(`#_vendorName_${i}_`, 200)
   }
   paper.apply()
