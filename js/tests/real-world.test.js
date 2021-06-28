@@ -90,7 +90,7 @@ function doTest(pathToOriginalSvg, pathToOutputSvg, pathToOutputHtml, pathToExpe
   paper.apply()
 
   fs.writeFileSync(pathToOutputSvg, document.body.innerHTML)
-  fs.writeFileSync(pathToOutputHtml, '<!DOCTYPE html><html><head><link rel="stylesheet" href="../../../dist/svg-paper.min.css"><style>@page{size:A4}</style></head><body class="A4">' + document.body.innerHTML + '</body></html>')
+  fs.writeFileSync(pathToOutputHtml, '<!DOCTYPE html><html><head><link rel="stylesheet" href="../../../dist/svg-paper.min.css"><style>@page{size:A4}</style></head><body><div class="paper A4">' + document.body.innerHTML + '</div></body></html>')
 
   expect(fs.readFileSync(pathToExpectedOutputSvg, 'utf-8')).toEqual(document.body.innerHTML)
 }
