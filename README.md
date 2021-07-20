@@ -243,9 +243,27 @@ document.querySelector('#blinder').style.display = 'none'
 
 You can easily print to PDF directly by using [electron-pdf](https://github.com/fraserxu/electron-pdf).
 
+The basic usage of electron-pdf is following.
+
 ```bash
 $ npm install --global electron-pdf
 $ electron-pdf your-document.html your-document.pdf
 ```
+
+But svg-paper modifies HTML content by JavaScript, so you have to wait it before printing by following.
+
+```bash
+$ electron-pdf your-document.html your-document.pdf -e # -e is the shorthand for --waitForJSEvent
+```
+
+```html
+<!-- your document -->
+<body>
+  ...
+  <script>document.body.dispatchEvent(new Event('view-ready'))</script> <!-- 'view-ready' is the default event name for --waitForJSEvent -->
+</body>
+```
+
+To learn more see [README of electron-pdf](https://github.com/fraserxu/electron-pdf#to-generate-a-pdf-after-the-an-async-task-in-the-html).
 
 Enjoy! ✨
