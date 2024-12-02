@@ -114,7 +114,7 @@ paper
   .adjustText('#selector3', 800, 'end')
 
   // automatically wrap or shrink actual content so that it fits within the specified area (600 x 300)
-  .adjustTetxarea('#selector4', 600, 300)
+  .adjustTextarea('#selector4', 600, 300)
 
   // you can pass some additional args
   .adjustTextarea('#selector5',
